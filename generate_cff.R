@@ -19,7 +19,7 @@ cffobj <- as.cff(list(
     cff_parse_person("Ina Serif")),
   message = "Data are released under CC-BY-SA 4.0. Please cite the dataset as indicated when you use this dataset.",
   type = "dataset",
-  license = "CC-BY-SA-4.0"
+  license = "CC-BY-NC-SA-4.0"
 ))
 
 class(cffobj)
