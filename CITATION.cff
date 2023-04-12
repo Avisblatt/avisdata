@@ -1,0 +1,25 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.4.1
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: Data are released under CC-BY-SA 4.0. Please cite the dataset as indicated
+  when you use this dataset.
+type: dataset
+license: CC-BY-SA-4.0
+title: Raw and Processed Data of Printed Markets - The Basel Avisblatt (1729-1845)
+authors:
+- family-names: Bannert
+  given-names: Matthias
+  orcid: https://orcid.org/0000-0001-7901-9254
+- family-names: Burghartz
+  given-names: Susanna
+- family-names: Engel
+  given-names: Alexander
+- family-names: Kury
+  given-names: Lars
+- family-names: Reimann
+  given-names: Anna
+- family-names: Serif
+  given-names: Ina
