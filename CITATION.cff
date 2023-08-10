@@ -10,16 +10,21 @@ type: dataset
 license: CC-BY-NC-SA-4.0
 title: Raw and Processed Data of Printed Markets - The Basel Avisblatt (1729-1845)
 authors:
+- family-names: Burghartz
+  given-names: Susanna
+  orcid: https://orcid.org/0000-0001-6173-6626
 - family-names: Bannert
   given-names: Matthias
   orcid: https://orcid.org/0000-0001-7901-9254
-- family-names: Burghartz
-  given-names: Susanna
+- family-names: Dickmann
+  given-names: Lars
+  orcid: https://orcid.org/0000-0002-4511-1017
 - family-names: Engel
   given-names: Alexander
-- family-names: Kury
-  given-names: Lars
+  orcid: https://orcid.org/0000-0002-8592-3124
 - family-names: Reimann
   given-names: Anna
+  orcid: https://orcid.org/0000-0001-8225-7851
 - family-names: Serif
   given-names: Ina
+  orcid: https://orcid.org/0000-0003-2419-4252
