@@ -21450,7 +21450,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t4",
       "p_o_distance": 1.2961,
       "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t2",
-      "p_r_distance": 0
+      "p_r_distance": 0.7627
     }
   ],
   "498aecdc-a436-5e14-b30a-88dd8d992b62/t11": [
@@ -21467,7 +21467,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t13",
       "p_o_distance": 1.4361,
       "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t3",
-      "p_r_distance": 0.5128
+      "p_r_distance": 0.6708
     }
   ],
   "498aecdc-a436-5e14-b30a-88dd8d992b62/t12": [
@@ -21501,7 +21501,7 @@
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t13",
       "p_o_distance": 1.5763,
       "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t18",
-      "p_r_distance": 0.5312
+      "p_r_distance": 0.645
     }
   ],
   "498aecdc-a436-5e14-b30a-88dd8d992b62/t2": [
@@ -21518,7 +21518,7 @@
       "potential_original": "2b7b5f3b-ab12-5047-9818-60b96224257f/t3",
       "p_o_distance": 1.4982,
       "potential_reprint": "7f34f043-a37f-5590-9519-26beeeda745f/t6",
-      "p_r_distance": 0.1569
+      "p_r_distance": 0.4654
     }
   ],
   "498aecdc-a436-5e14-b30a-88dd8d992b62/t3": [
@@ -21535,7 +21535,7 @@
       "potential_original": "e56c04a3-27ad-5900-8d91-23739ad46868/t5",
       "p_o_distance": 1.5645,
       "potential_reprint": "7f34f043-a37f-5590-9519-26beeeda745f/t6",
-      "p_r_distance": 1.5461
+      "p_r_distance": 1.5491
     }
   ],
   "498aecdc-a436-5e14-b30a-88dd8d992b62/t4": [
@@ -21552,7 +21552,7 @@
       "potential_original": "2b7b5f3b-ab12-5047-9818-60b96224257f/t10",
       "p_o_distance": 0,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t19",
-      "p_r_distance": 1.5751
+      "p_r_distance": 1.5744
     }
   ],
   "498aecdc-a436-5e14-b30a-88dd8d992b62/t5": [
@@ -21568,8 +21568,8 @@
       "reprint_status": "reprint",
       "potential_original": "2b7b5f3b-ab12-5047-9818-60b96224257f/t11",
       "p_o_distance": 0.1946,
-      "potential_reprint": "feeebfbf-4e85-51d7-b548-094aa85d4199/t10",
-      "p_r_distance": 1.6137
+      "potential_reprint": "7f34f043-a37f-5590-9519-26beeeda745f/t5",
+      "p_r_distance": 1.6002
     }
   ],
   "498aecdc-a436-5e14-b30a-88dd8d992b62/t6": [
@@ -21594,7 +21594,7 @@
       "isheader": false,
       "date": "1762-12-30",
       "tags_section": "othernews",
-      "tags": ["attributes_female", "carriage", "riding", "ut_things_accessories", "ut_things_storeNmove"],
+      "tags": ["attributes_female", "carriage", "ut_things_storeNmove", "riding", "ut_things_accessories", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 44,
@@ -21603,7 +21603,7 @@
       "potential_original": "2b7b5f3b-ab12-5047-9818-60b96224257f/t12",
       "p_o_distance": 1.5687,
       "potential_reprint": "7f34f043-a37f-5590-9519-26beeeda745f/t7",
-      "p_r_distance": 0.3943
+      "p_r_distance": 0.8061
     }
   ],
   "498aecdc-a436-5e14-b30a-88dd8d992b62/t8": [
@@ -21637,7 +21637,7 @@
       "potential_original": "c3b5b28e-5fae-57f9-a0d4-44816f31f1b1/t18",
       "p_o_distance": 1.4853,
       "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t1",
-      "p_r_distance": 0.5955
+      "p_r_distance": 0.743
     }
   ],
   "4aa58226-f870-5e59-8c34-7a50354e576d/t0": [
@@ -26142,7 +26142,7 @@
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t1",
       "p_o_distance": 0.5473,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t10",
-      "p_r_distance": 1.5263
+      "p_r_distance": 1.5488
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t11": [
@@ -26176,7 +26176,7 @@
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t3",
       "p_o_distance": 0.5528,
       "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t8",
-      "p_r_distance": 1.2965
+      "p_r_distance": 1.3747
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t13": [
@@ -26210,7 +26210,7 @@
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t5",
       "p_o_distance": 0,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t2",
-      "p_r_distance": 1.2444
+      "p_r_distance": 1.272
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t15": [
@@ -26243,8 +26243,8 @@
       "reprint_status": "reprint",
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t7",
       "p_o_distance": 0.3809,
-      "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t1",
-      "p_r_distance": 1.276
+      "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t7",
+      "p_r_distance": 1.4635
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t17": [
@@ -26261,7 +26261,7 @@
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t8",
       "p_o_distance": 0.5643,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t16",
-      "p_r_distance": 1.4321
+      "p_r_distance": 1.4698
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t18": [
@@ -26295,7 +26295,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t4",
       "p_o_distance": 1.3126,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t18",
-      "p_r_distance": 0
+      "p_r_distance": 0.9194
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t2": [
@@ -26312,7 +26312,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t11",
       "p_o_distance": 0,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t2",
-      "p_r_distance": 1.3206
+      "p_r_distance": 1.3434
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t20": [
@@ -26329,7 +26329,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t5",
       "p_o_distance": 1.4481,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t19",
-      "p_r_distance": 0.5751
+      "p_r_distance": 0.6967
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t21": [
@@ -26337,7 +26337,7 @@
       "isheader": false,
       "date": "1762-12-30",
       "tags_section": "saleoffer",
-      "tags": ["transactiontype_offer1", "transactiontype_sale1", "buildingcomponents", "chair", "stove", "wood", "ut_household", "ut_things_devicesNcomponents", "ut_things_materials", "fraternal_twin"],
+      "tags": ["transactiontype_offer1", "transactiontype_sale1", "buildingcomponents", "stove", "wood", "ut_household", "ut_things_devicesNcomponents", "ut_things_materials"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 29,
@@ -26346,7 +26346,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t7",
       "p_o_distance": 1.6136,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t20",
-      "p_r_distance": 0.3543
+      "p_r_distance": 0.8104
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t22": [
@@ -26359,11 +26359,11 @@
       "language": "de",
       "ntokens": 28,
       "nchar": 129,
-      "reprint_status": "orig_r",
+      "reprint_status": "orig_u",
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t15",
       "p_o_distance": 1.6089,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t21",
-      "p_r_distance": 0.6771
+      "p_r_distance": 1.1715
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t3": [
@@ -26380,7 +26380,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t12",
       "p_o_distance": 0,
       "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t4",
-      "p_r_distance": 1.3938
+      "p_r_distance": 1.4122
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t4": [
@@ -26414,7 +26414,7 @@
       "potential_original": "c3b5b28e-5fae-57f9-a0d4-44816f31f1b1/t18",
       "p_o_distance": 0.6015,
       "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t8",
-      "p_r_distance": 1.444
+      "p_r_distance": 1.5199
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t6": [
@@ -26430,8 +26430,8 @@
       "reprint_status": "reprint",
       "potential_original": "c3b5b28e-5fae-57f9-a0d4-44816f31f1b1/t19",
       "p_o_distance": 0.391,
-      "potential_reprint": "7f34f043-a37f-5590-9519-26beeeda745f/t5",
-      "p_r_distance": 1.5707
+      "potential_reprint": "feeebfbf-4e85-51d7-b548-094aa85d4199/t3",
+      "p_r_distance": 1.6142
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t7": [
@@ -26448,7 +26448,7 @@
       "potential_original": "c3b5b28e-5fae-57f9-a0d4-44816f31f1b1/t20",
       "p_o_distance": 0,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t7",
-      "p_r_distance": 1.4444
+      "p_r_distance": 1.4472
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t8": [
@@ -26465,7 +26465,7 @@
       "potential_original": "c3b5b28e-5fae-57f9-a0d4-44816f31f1b1/t21",
       "p_o_distance": 0,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t2",
-      "p_r_distance": 1.1795
+      "p_r_distance": 1.2303
     }
   ],
   "5744e36d-5d63-52cd-a5c0-29f208616a6a/t9": [
@@ -26482,7 +26482,7 @@
       "potential_original": "c3b5b28e-5fae-57f9-a0d4-44816f31f1b1/t22",
       "p_o_distance": 0.6777,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t19",
-      "p_r_distance": 1.556
+      "p_r_distance": 1.5558
     }
   ],
   "57c36c8d-aa8f-5c7a-9bb2-308b8a633b30/t1": [
@@ -40558,7 +40558,7 @@
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t21",
       "p_o_distance": 1.5378,
       "potential_reprint": "feeebfbf-4e85-51d7-b548-094aa85d4199/t2",
-      "p_r_distance": 0
+      "p_r_distance": 0.6105
     }
   ],
   "7b59e397-c250-5a1e-8adb-82083f36f79f/t12": [
@@ -40575,7 +40575,7 @@
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t24",
       "p_o_distance": 1.2849,
       "potential_reprint": "feeebfbf-4e85-51d7-b548-094aa85d4199/t3",
-      "p_r_distance": 0
+      "p_r_distance": 0.4398
     }
   ],
   "7b59e397-c250-5a1e-8adb-82083f36f79f/t13": [
@@ -40592,7 +40592,7 @@
       "potential_original": "c3b5b28e-5fae-57f9-a0d4-44816f31f1b1/t14",
       "p_o_distance": 1.5332,
       "potential_reprint": "feeebfbf-4e85-51d7-b548-094aa85d4199/t4",
-      "p_r_distance": 0.3186
+      "p_r_distance": 0.591
     }
   ],
   "7b59e397-c250-5a1e-8adb-82083f36f79f/t14": [
@@ -40609,7 +40609,7 @@
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t24",
       "p_o_distance": 0,
       "potential_reprint": "feeebfbf-4e85-51d7-b548-094aa85d4199/t3",
-      "p_r_distance": 1.2849
+      "p_r_distance": 1.3573
     }
   ],
   "7b59e397-c250-5a1e-8adb-82083f36f79f/t15": [
@@ -40660,7 +40660,7 @@
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t4",
       "p_o_distance": 1.6212,
       "potential_reprint": "feeebfbf-4e85-51d7-b548-094aa85d4199/t13",
-      "p_r_distance": 0
+      "p_r_distance": 0.9349
     }
   ],
   "7b59e397-c250-5a1e-8adb-82083f36f79f/t18": [
@@ -40676,8 +40676,8 @@
       "reprint_status": "reprint",
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t26",
       "p_o_distance": 0.7438,
-      "potential_reprint": "7f34f043-a37f-5590-9519-26beeeda745f/t6",
-      "p_r_distance": 2.0627
+      "potential_reprint": "feeebfbf-4e85-51d7-b548-094aa85d4199/t10",
+      "p_r_distance": 1.9569
     }
   ],
   "7b59e397-c250-5a1e-8adb-82083f36f79f/t19": [
@@ -40694,7 +40694,7 @@
       "potential_original": "2b7b5f3b-ab12-5047-9818-60b96224257f/t4",
       "p_o_distance": 0.3626,
       "potential_reprint": "feeebfbf-4e85-51d7-b548-094aa85d4199/t0",
-      "p_r_distance": 1.6227
+      "p_r_distance": 1.6208
     }
   ],
   "7b59e397-c250-5a1e-8adb-82083f36f79f/t2": [
@@ -40711,7 +40711,7 @@
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t11",
       "p_o_distance": 0,
       "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t16",
-      "p_r_distance": 1.3098
+      "p_r_distance": 1.345
     }
   ],
   "7b59e397-c250-5a1e-8adb-82083f36f79f/t20": [
@@ -40745,7 +40745,7 @@
       "potential_original": "2b7b5f3b-ab12-5047-9818-60b96224257f/t6",
       "p_o_distance": 0,
       "potential_reprint": "7f34f043-a37f-5590-9519-26beeeda745f/t0",
-      "p_r_distance": 1.451
+      "p_r_distance": 1.4817
     }
   ],
   "7b59e397-c250-5a1e-8adb-82083f36f79f/t22": [
@@ -40778,8 +40778,8 @@
       "reprint_status": "reprint",
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t12",
       "p_o_distance": 0.4386,
-      "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t16",
-      "p_r_distance": 1.216
+      "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t19",
+      "p_r_distance": 1.2521
     }
   ],
   "7b59e397-c250-5a1e-8adb-82083f36f79f/t4": [
@@ -40795,8 +40795,8 @@
       "reprint_status": "reprint",
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t13",
       "p_o_distance": 0.3809,
-      "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t16",
-      "p_r_distance": 1.37
+      "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t19",
+      "p_r_distance": 1.282
     }
   ],
   "7b59e397-c250-5a1e-8adb-82083f36f79f/t5": [
@@ -40813,7 +40813,7 @@
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t14",
       "p_o_distance": 0,
       "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t19",
-      "p_r_distance": 1.1625
+      "p_r_distance": 1.1788
     }
   ],
   "7b59e397-c250-5a1e-8adb-82083f36f79f/t6": [
@@ -40864,7 +40864,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t11",
       "p_o_distance": 1.4738,
       "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t25",
-      "p_r_distance": 0
+      "p_r_distance": 0.5842
     }
   ],
   "7b59e397-c250-5a1e-8adb-82083f36f79f/t9": [
@@ -40881,7 +40881,7 @@
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t21",
       "p_o_distance": 1.4311,
       "potential_reprint": "feeebfbf-4e85-51d7-b548-094aa85d4199/t0",
-      "p_r_distance": 0.4016
+      "p_r_distance": 0.7827
     }
   ],
   "7c657943-6e8a-5e9a-9263-691abbb2e850/t0": [
@@ -57830,7 +57830,7 @@
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t14",
       "p_o_distance": 1.1625,
       "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t19",
-      "p_r_distance": 0.504
+      "p_r_distance": 0.7824
     }
   ],
   "ad762cfb-3605-56d5-92df-154817be047f/t1": [
@@ -57949,7 +57949,7 @@
       "potential_original": "2b7b5f3b-ab12-5047-9818-60b96224257f/t2",
       "p_o_distance": 1.4851,
       "potential_reprint": "feeebfbf-4e85-51d7-b548-094aa85d4199/t15",
-      "p_r_distance": 0.3521
+      "p_r_distance": 0.6861
     }
   ],
   "ad762cfb-3605-56d5-92df-154817be047f/t5": [
@@ -57966,7 +57966,7 @@
       "potential_original": "3b7f1856-ea77-5f9c-b16b-8af8415396e4/t13",
       "p_o_distance": 1.557,
       "potential_reprint": "feeebfbf-4e85-51d7-b548-094aa85d4199/t16",
-      "p_r_distance": 0.413
+      "p_r_distance": 0.6441
     }
   ],
   "ad762cfb-3605-56d5-92df-154817be047f/t6": [
@@ -58008,7 +58008,7 @@
       "isheader": false,
       "date": "1762-12-30",
       "tags_section": "lostandfoundheader",
-      "tags": ["lostandfound1", "transactiontype_offer1", "crime", "wood", "ut_things_materials"],
+      "tags": ["lostandfound1", "transactiontype_offer1", "crime", "wood", "ut_things_materials", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 40,
@@ -58017,7 +58017,7 @@
       "potential_original": "2b7b5f3b-ab12-5047-9818-60b96224257f/t1",
       "p_o_distance": 1.5933,
       "potential_reprint": "feeebfbf-4e85-51d7-b548-094aa85d4199/t21",
-      "p_r_distance": 0.442
+      "p_r_distance": 0.8335
     }
   ],
   "ad762cfb-3605-56d5-92df-154817be047f/t9": [
@@ -72960,7 +72960,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t5",
       "p_o_distance": 1.4953,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t5",
-      "p_r_distance": 0
+      "p_r_distance": 0.9236
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t10": [
@@ -72977,7 +72977,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t13",
       "p_o_distance": 1.3985,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t14",
-      "p_r_distance": 0.3318
+      "p_r_distance": 0.7578
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t11": [
@@ -72990,11 +72990,11 @@
       "language": "de",
       "ntokens": 22,
       "nchar": 99,
-      "reprint_status": "orig_r",
+      "reprint_status": "orig_u",
       "potential_original": "c3b5b28e-5fae-57f9-a0d4-44816f31f1b1/t15",
       "p_o_distance": 1.3613,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t15",
-      "p_r_distance": 0.6202
+      "p_r_distance": 1.0131
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t12": [
@@ -73011,7 +73011,7 @@
       "potential_original": "c3b5b28e-5fae-57f9-a0d4-44816f31f1b1/t15",
       "p_o_distance": 1.3433,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t16",
-      "p_r_distance": 0
+      "p_r_distance": 0.9194
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t13": [
@@ -73045,7 +73045,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t2",
       "p_o_distance": 0.3829,
       "potential_reprint": "299a1503-0785-5d68-8b48-b1c7d9ba8b4a/t20",
-      "p_r_distance": 1.4387
+      "p_r_distance": 1.4453
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t15": [
@@ -73062,7 +73062,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t3",
       "p_o_distance": 0,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t7",
-      "p_r_distance": 1.6263
+      "p_r_distance": 1.6247
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t16": [
@@ -73096,7 +73096,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t5",
       "p_o_distance": 0.5128,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t19",
-      "p_r_distance": 1.387
+      "p_r_distance": 1.4394
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t18": [
@@ -73113,7 +73113,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t6",
       "p_o_distance": 0.7911,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t15",
-      "p_r_distance": 1.411
+      "p_r_distance": 1.5857
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t19": [
@@ -73130,7 +73130,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t7",
       "p_o_distance": 0.4942,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t20",
-      "p_r_distance": 1.5749
+      "p_r_distance": 1.5657
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t2": [
@@ -73163,8 +73163,8 @@
       "reprint_status": "reprint",
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t8",
       "p_o_distance": 0.3922,
-      "potential_reprint": "feeebfbf-4e85-51d7-b548-094aa85d4199/t10",
-      "p_r_distance": 1.7703
+      "potential_reprint": "7f34f043-a37f-5590-9519-26beeeda745f/t5",
+      "p_r_distance": 1.795
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t3": [
@@ -73181,7 +73181,7 @@
       "potential_original": "c3b5b28e-5fae-57f9-a0d4-44816f31f1b1/t9",
       "p_o_distance": 1.39,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t7",
-      "p_r_distance": 0.5418
+      "p_r_distance": 0.6778
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t4": [
@@ -73189,7 +73189,7 @@
       "isheader": false,
       "date": "1762-12-30",
       "tags_section": "saleoffer",
-      "tags": ["transactiontype_offer1", "transactiontype_sale1", "buildingcomponents", "secondhand", "ut_things_devicesNcomponents"],
+      "tags": ["transactiontype_offer1", "transactiontype_sale1", "secondhand", "buildingcomponents", "ut_things_devicesNcomponents", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 23,
@@ -73198,7 +73198,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t4",
       "p_o_distance": 1.417,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t8",
-      "p_r_distance": 0
+      "p_r_distance": 0.5139
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t5": [
@@ -73206,7 +73206,7 @@
       "isheader": false,
       "date": "1762-12-30",
       "tags_section": "saleoffer",
-      "tags": ["transactiontype_offer1", "transactiontype_sale1", "chair", "ut_household"],
+      "tags": ["transactiontype_offer1", "transactiontype_sale1", "chair", "ut_household", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 18,
@@ -73215,7 +73215,7 @@
       "potential_original": "c3b5b28e-5fae-57f9-a0d4-44816f31f1b1/t21",
       "p_o_distance": 1.1976,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t9",
-      "p_r_distance": 0
+      "p_r_distance": 0.63
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t6": [
@@ -73232,7 +73232,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t4",
       "p_o_distance": 1.3872,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t10",
-      "p_r_distance": 0
+      "p_r_distance": 0.6999
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t7": [
@@ -73249,7 +73249,7 @@
       "potential_original": "07576d21-5324-500a-86d0-e3654d568a5b/t2",
       "p_o_distance": 1.4119,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t11",
-      "p_r_distance": 0
+      "p_r_distance": 0.3373
     }
   ],
   "dbcf6ad4-64a1-50e8-8bfb-14d8a557fce3/t8": [
@@ -73279,11 +73279,11 @@
       "language": "de",
       "ntokens": 21,
       "nchar": 86,
-      "reprint_status": "orig_r",
+      "reprint_status": "orig_u",
       "potential_original": "c3b5b28e-5fae-57f9-a0d4-44816f31f1b1/t21",
       "p_o_distance": 1.5572,
       "potential_reprint": "9bdb4222-a7b0-57e2-96df-b638855235b3/t13",
-      "p_r_distance": 0.4854
+      "p_r_distance": 1.0413
     }
   ],
   "dc346645-1de3-51c6-b0c7-a528bf0ea44e/t0": [

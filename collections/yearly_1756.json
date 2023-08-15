@@ -69730,7 +69730,7 @@
       "potential_original": "455a6f58-9562-54b6-aa22-efe3a8f8f5da/t12",
       "p_o_distance": 101.7666,
       "potential_reprint": "f97663cf-f484-59fb-bbda-4e493eb9806e/t5",
-      "p_r_distance": 101.1336
+      "p_r_distance": 101.2197
     }
   ],
   "f08c04b0-b904-551e-b7e6-8baf32f56b1b/t1": [
@@ -71302,16 +71302,16 @@
       "isheader": false,
       "date": "1756-12-30",
       "tags_section": "othernews",
-      "tags": ["attributes_female", "employment2"],
+      "tags": "bizpromo2",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 275,
-      "nchar": 1529,
+      "ntokens": 186,
+      "nchar": 1004,
       "reprint_status": "orig_u",
       "potential_original": "463de257-058d-5d0a-a1b2-f4f56489ec2d/t2",
-      "p_o_distance": 1.3523,
-      "potential_reprint": "1eb49697-eb43-5707-b2ea-5cf9a7fbceef/t12",
-      "p_r_distance": 101.2066
+      "p_o_distance": 1.3955,
+      "potential_reprint": "8cbf9dc4-d14e-5cc5-a461-df71e90a5ddc/t13",
+      "p_r_distance": 1.4808
     }
   ],
   "f97663cf-f484-59fb-bbda-4e493eb9806e/t7": [

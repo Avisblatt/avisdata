@@ -8562,7 +8562,7 @@
       "nchar": 5169,
       "reprint_status": "orig_u",
       "potential_original": "f97663cf-f484-59fb-bbda-4e493eb9806e/t5",
-      "p_o_distance": 101.2066,
+      "p_o_distance": 101.3132,
       "potential_reprint": "02e58f7a-c1ad-54b1-8916-6ffb9bd28b6c/t8",
       "p_r_distance": 101.2118
     }
@@ -38906,8 +38906,8 @@
       "ntokens": 152,
       "nchar": 836,
       "reprint_status": "orig_r",
-      "potential_original": "f011f7a5-ab88-50f7-81c6-20b459c6ae36/t8",
-      "p_o_distance": 1.4924,
+      "potential_original": "f97663cf-f484-59fb-bbda-4e493eb9806e/t5",
+      "p_o_distance": 1.4808,
       "potential_reprint": "80cb653f-b411-5dc8-ac43-37413113e701/t2",
       "p_r_distance": 0.2446
     }

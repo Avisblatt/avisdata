@@ -143,7 +143,7 @@
       "tags": ["attributes_female", "print3", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 51,
+      "ntokens": 52,
       "nchar": 211,
       "reprint_status": "reprint",
       "potential_original": "9f2fc291-fe70-5163-8ead-939c8e210823/t25",
@@ -381,7 +381,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "fish", "ut_consumables_food"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 24,
+      "ntokens": 25,
       "nchar": 110,
       "reprint_status": "reprint",
       "potential_original": "9f2fc291-fe70-5163-8ead-939c8e210823/t36",
@@ -1690,7 +1690,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 30,
+      "ntokens": 31,
       "nchar": 154,
       "reprint_status": "orig_r",
       "potential_original": "0fb40a1c-c9cc-57dd-81d7-953c65617c94/t20",
@@ -1792,7 +1792,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "livestock", "ut_animals"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 38,
+      "ntokens": 39,
       "nchar": 213,
       "reprint_status": "orig_r",
       "potential_original": "0fb40a1c-c9cc-57dd-81d7-953c65617c94/t27",
@@ -2217,7 +2217,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "alcohol", "ut_consumables_drink"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 49,
+      "ntokens": 50,
       "nchar": 297,
       "reprint_status": "reprint",
       "potential_original": "b3af4b6c-39a9-5488-b9a0-7ff80ced6474/t13",
@@ -3373,7 +3373,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 23,
+      "ntokens": 24,
       "nchar": 109,
       "reprint_status": "reprint",
       "potential_original": "d097a82b-f401-54ab-9937-ddf1337c15da/t23",
@@ -3951,7 +3951,7 @@
       "tags": ["birds", "ut_animals"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 143,
+      "ntokens": 145,
       "nchar": 833,
       "reprint_status": "orig_r",
       "potential_original": "cd86db92-e643-5625-adc2-5b826878f4ef/t16",
@@ -4754,9 +4754,9 @@
       "nchar": 202,
       "reprint_status": "reprint",
       "potential_original": "4b032b69-be5f-5d93-b51b-2d1e3544fd4e/t23",
-      "p_o_distance": 0.3251,
+      "p_o_distance": 0.3318,
       "potential_reprint": "bbf3c5ce-84c8-5441-af91-1ceeb2fbeee7/t2",
-      "p_r_distance": 1.4062
+      "p_r_distance": 1.3954
     }
   ],
   "16db3ece-5f8d-5844-ae67-6b8cd60c34ca/t35": [
@@ -4801,7 +4801,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 26,
+      "ntokens": 27,
       "nchar": 117,
       "reprint_status": "reprint",
       "potential_original": "4b032b69-be5f-5d93-b51b-2d1e3544fd4e/t27",
@@ -5124,7 +5124,7 @@
       "tags": ["transactiontype_offer2", "art", "bag", "bed", "fruit", "health", "storage", "underwear", "ut_consumables_food", "ut_consumables_drugs", "ut_household", "ut_clothing", "ut_textiles", "ut_things_accessories", "ut_things_storeNmove", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 305,
+      "ntokens": 310,
       "nchar": 1526,
       "reprint_status": "reprint",
       "potential_original": "e373552f-cf71-5c37-a0e2-fb8e3069ebf7/t9",
@@ -5451,7 +5451,7 @@
       "nchar": 993,
       "reprint_status": "orig_r",
       "potential_original": "e373552f-cf71-5c37-a0e2-fb8e3069ebf7/t9",
-      "p_o_distance": 2.1312,
+      "p_o_distance": 2.111,
       "potential_reprint": "a4348130-59ee-5f8f-9e25-9220ac1c7e84/t19",
       "p_r_distance": 0.3631
     }
@@ -5634,7 +5634,7 @@
       "tags": "NA",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 75,
+      "ntokens": 76,
       "nchar": 423,
       "reprint_status": "orig_r",
       "potential_original": "af5a856e-2247-5013-8bcd-503060f2ef3f/t4",
@@ -5702,7 +5702,7 @@
       "tags": ["transactiontype_offer2", "texmaterial", "underwear", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 22,
+      "ntokens": 23,
       "nchar": 127,
       "reprint_status": "orig_r",
       "potential_original": "af5a856e-2247-5013-8bcd-503060f2ef3f/t14",
@@ -6603,7 +6603,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "transactiontype_offer2", "cloth", "stationary", "ut_textiles", "ut_things_devicesNcomponents"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 30,
+      "ntokens": 31,
       "nchar": 176,
       "reprint_status": "reprint",
       "potential_original": "31a2456c-4691-55d1-867b-48af7f8b444c/t30",
@@ -7351,7 +7351,7 @@
       "tags": ["lostandfound1", "transactiontype_offer1", "transactiontype_request3", "bag", "wood", "ut_things_accessories", "ut_things_materials"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 57,
+      "ntokens": 58,
       "nchar": 382,
       "reprint_status": "orig_u",
       "potential_original": "ac00e94d-c07e-5c33-96dc-7046ec44a5f4/t2",
@@ -7538,7 +7538,7 @@
       "tags": ["attributes_female", "lottery"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 425,
+      "ntokens": 426,
       "nchar": 2313,
       "reprint_status": "NA",
       "potential_original": "NA",
@@ -8048,7 +8048,7 @@
       "tags": "employment1",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 101,
+      "ntokens": 102,
       "nchar": 566,
       "reprint_status": "orig_r",
       "potential_original": "2176ac50-e98d-5fbd-bbfa-5b87ac3c77d9/t0",
@@ -8150,7 +8150,7 @@
       "tags": ["housing_sale1", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 50,
+      "ntokens": 51,
       "nchar": 265,
       "reprint_status": "reprint",
       "potential_original": "f8a41ac3-1359-58eb-b8e3-049637f4f755/t3",
@@ -8188,9 +8188,9 @@
       "nchar": 384,
       "reprint_status": "reprint",
       "potential_original": "b05f4740-6e48-556f-889a-affd28fd55c0/t2",
-      "p_o_distance": 0.2166,
+      "p_o_distance": 0.2192,
       "potential_reprint": "e378df4a-5b8b-5f98-943d-5605158b55da/t4",
-      "p_r_distance": 1.509
+      "p_r_distance": 1.5074
     }
   ],
   "2176ac50-e98d-5fbd-bbfa-5b87ac3c77d9/t10": [
@@ -8218,7 +8218,7 @@
       "tags": ["lottery", "transactiontype_offer2"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 97,
+      "ntokens": 98,
       "nchar": 511,
       "reprint_status": "orig_r",
       "potential_original": "b05f4740-6e48-556f-889a-affd28fd55c0/t13",
@@ -8426,7 +8426,7 @@
       "nchar": 260,
       "reprint_status": "orig_r",
       "potential_original": "b05f4740-6e48-556f-889a-affd28fd55c0/t2",
-      "p_o_distance": 1.5117,
+      "p_o_distance": 1.5098,
       "potential_reprint": "e378df4a-5b8b-5f98-943d-5605158b55da/t4",
       "p_r_distance": 0.5215
     }
@@ -8694,7 +8694,7 @@
       "tags": ["housing_sale2", "transactiontype_offer1", "transactiontype_sale1", "livestock", "trolley", "ut_things_storeNmove", "ut_animals"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 44,
+      "ntokens": 45,
       "nchar": 216,
       "reprint_status": "reprint",
       "potential_original": "f6b08a7f-95df-525f-8fb7-bd4605b21fef/t23",
@@ -9833,11 +9833,11 @@
       "tags": ["employment2", "lostandfound2", "texmaterial", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 113,
+      "ntokens": 114,
       "nchar": 708,
       "reprint_status": "orig_r",
       "potential_original": "385c6339-378e-5de0-a535-e7616582b766/t19",
-      "p_o_distance": 1.4313,
+      "p_o_distance": 1.4391,
       "potential_reprint": "a032166e-3468-52ca-bfcc-6a735d9634ec/t27",
       "p_r_distance": 0.3046
     }
@@ -9856,7 +9856,7 @@
       "potential_original": "385c6339-378e-5de0-a535-e7616582b766/t19",
       "p_o_distance": 1.4332,
       "potential_reprint": "a032166e-3468-52ca-bfcc-6a735d9634ec/t27",
-      "p_r_distance": 1.4148
+      "p_r_distance": 1.4231
     }
   ],
   "29f8e425-7c6d-501f-a71c-2c34942aa802/t14": [
@@ -10717,7 +10717,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "transactiontype_offer2", "cloth", "stationary", "ut_textiles", "ut_things_devicesNcomponents"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 31,
+      "ntokens": 32,
       "nchar": 177,
       "reprint_status": "orig_r",
       "potential_original": "ea8d120a-0cd7-5fe5-8375-fde5e60c174f/t30",
@@ -10768,7 +10768,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 30,
+      "ntokens": 31,
       "nchar": 150,
       "reprint_status": "reprint",
       "potential_original": "ea8d120a-0cd7-5fe5-8375-fde5e60c174f/t30",
@@ -11057,7 +11057,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "carriage", "ut_things_storeNmove"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 64,
+      "ntokens": 65,
       "nchar": 375,
       "reprint_status": "reprint",
       "potential_original": "9d4b4add-abbb-5692-8a83-00022656457e/t1",
@@ -11125,7 +11125,7 @@
       "tags": ["attributes_female", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 13,
+      "ntokens": 14,
       "nchar": 82,
       "reprint_status": "reprint",
       "potential_original": "9d4b4add-abbb-5692-8a83-00022656457e/t19",
@@ -11380,7 +11380,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "bedding", "clothing", "ut_household", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 29,
+      "ntokens": 30,
       "nchar": 147,
       "reprint_status": "orig_r",
       "potential_original": "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t27",
@@ -12774,7 +12774,7 @@
       "tags": ["transactiontype_offer2", "bag", "clothing", "neck", "outerwear", "shopequip", "texmaterial", "underwear", "ut_clothing", "ut_textiles", "ut_things_accessories", "ut_things_devicesNcomponents"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 45,
+      "ntokens": 46,
       "nchar": 255,
       "reprint_status": "orig_r",
       "potential_original": "bb934471-fee2-57e2-bf77-ee4d45bf2273/t23",
@@ -12978,7 +12978,7 @@
       "tags": ["print2", "transactiontype_offer2", "fish", "ut_consumables_food"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 113,
+      "ntokens": 114,
       "nchar": 583,
       "reprint_status": "reprint",
       "potential_original": "bb934471-fee2-57e2-bf77-ee4d45bf2273/t17",
@@ -13658,7 +13658,7 @@
       "tags": "employment1",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 83,
+      "ntokens": 84,
       "nchar": 459,
       "reprint_status": "orig_r",
       "potential_original": "bbf3c5ce-84c8-5441-af91-1ceeb2fbeee7/t25",
@@ -13726,7 +13726,7 @@
       "tags": ["boarding2", "employment1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 329,
+      "ntokens": 332,
       "nchar": 1877,
       "reprint_status": "orig_u",
       "potential_original": "bbf3c5ce-84c8-5441-af91-1ceeb2fbeee7/t22",
@@ -13760,7 +13760,7 @@
       "tags": ["print2", "print8", "transactiontype_offer2", "fish", "ut_consumables_food"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 95,
+      "ntokens": 96,
       "nchar": 562,
       "reprint_status": "orig_r",
       "potential_original": "bbf3c5ce-84c8-5441-af91-1ceeb2fbeee7/t11",
@@ -14559,7 +14559,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "bedding", "clothing", "ut_household", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 30,
+      "ntokens": 31,
       "nchar": 149,
       "reprint_status": "reprint",
       "potential_original": "5142af75-c918-50b8-848b-f8d78d91edbf/t4",
@@ -14627,7 +14627,7 @@
       "tags": ["housing_sale1", "housing_sale2", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 54,
+      "ntokens": 55,
       "nchar": 271,
       "reprint_status": "reprint",
       "potential_original": "5142af75-c918-50b8-848b-f8d78d91edbf/t35",
@@ -15092,7 +15092,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t4",
       "p_o_distance": 1.5738,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t5",
-      "p_r_distance": 0.281
+      "p_r_distance": 0.6777
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t10": [
@@ -15108,8 +15108,8 @@
       "reprint_status": "reprint",
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t6",
       "p_o_distance": 0,
-      "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t7",
-      "p_r_distance": 1.584
+      "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t4",
+      "p_r_distance": 1.5283
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t11": [
@@ -15126,7 +15126,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t7",
       "p_o_distance": 0,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t9",
-      "p_r_distance": 1.6621
+      "p_r_distance": 1.6595
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t12": [
@@ -15143,7 +15143,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t8",
       "p_o_distance": 0,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t11",
-      "p_r_distance": 1.6584
+      "p_r_distance": 1.6716
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t13": [
@@ -15176,8 +15176,8 @@
       "reprint_status": "orig_u",
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t26",
       "p_o_distance": 1.5511,
-      "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t27",
-      "p_r_distance": 1.5896
+      "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t14",
+      "p_r_distance": 1.6389
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t15": [
@@ -15194,7 +15194,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t17",
       "p_o_distance": 1.4626,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t16",
-      "p_r_distance": 0.4506
+      "p_r_distance": 0.8493
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t16": [
@@ -15211,7 +15211,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t17",
       "p_o_distance": 0,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t16",
-      "p_r_distance": 1.4626
+      "p_r_distance": 1.5365
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t17": [
@@ -15245,7 +15245,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t3",
       "p_o_distance": 1.4676,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t23",
-      "p_r_distance": 0.205
+      "p_r_distance": 0.6022
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t19": [
@@ -15258,11 +15258,11 @@
       "language": "de",
       "ntokens": 52,
       "nchar": 248,
-      "reprint_status": "orig_r",
+      "reprint_status": "orig_u",
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t15",
       "p_o_distance": 1.6823,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t25",
-      "p_r_distance": 0.1821
+      "p_r_distance": 1.0136
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t2": [
@@ -15279,7 +15279,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t5",
       "p_o_distance": 1.5434,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t6",
-      "p_r_distance": 0
+      "p_r_distance": 0.4408
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t20": [
@@ -15296,7 +15296,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t34",
       "p_o_distance": 1.6239,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t27",
-      "p_r_distance": 1.4808
+      "p_r_distance": 1.5556
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t21": [
@@ -15312,8 +15312,8 @@
       "reprint_status": "reprint",
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t23",
       "p_o_distance": 0.3715,
-      "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t29",
-      "p_r_distance": 1.6051
+      "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t25",
+      "p_r_distance": 1.6193
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t22": [
@@ -15330,7 +15330,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t24",
       "p_o_distance": 0.6147,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t14",
-      "p_r_distance": 1.6552
+      "p_r_distance": 1.6555
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t23": [
@@ -15347,7 +15347,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t25",
       "p_o_distance": 0.7065,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t17",
-      "p_r_distance": 1.5399
+      "p_r_distance": 1.5486
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t24": [
@@ -15381,7 +15381,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t27",
       "p_o_distance": 0.5528,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t39",
-      "p_r_distance": 1.532
+      "p_r_distance": 1.5389
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t26": [
@@ -15398,7 +15398,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t29",
       "p_o_distance": 0.6274,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t31",
-      "p_r_distance": 1.4815
+      "p_r_distance": 1.4808
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t27": [
@@ -15415,7 +15415,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t13",
       "p_o_distance": 1.6882,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t22",
-      "p_r_distance": 1.6206
+      "p_r_distance": 1.6108
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t28": [
@@ -15465,8 +15465,8 @@
       "reprint_status": "orig_u",
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t8",
       "p_o_distance": 1.499,
-      "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t30",
-      "p_r_distance": 1.5581
+      "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t29",
+      "p_r_distance": 1.5323
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t30": [
@@ -15525,7 +15525,7 @@
       "isheader": false,
       "date": "1740-12-27",
       "tags_section": "labourinfo",
-      "tags": "employment1",
+      "tags": ["employment1", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 30,
@@ -15534,7 +15534,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t35",
       "p_o_distance": 1.6572,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t8",
-      "p_r_distance": 0
+      "p_r_distance": 0.7455
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t6": [
@@ -15547,11 +15547,11 @@
       "language": "de",
       "ntokens": 20,
       "nchar": 107,
-      "reprint_status": "orig_r",
+      "reprint_status": "orig_u",
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t2",
       "p_o_distance": 1.6982,
-      "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t9",
-      "p_r_distance": 0.8046
+      "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t3",
+      "p_r_distance": 1.6605
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t7": [
@@ -15568,7 +15568,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t2",
       "p_o_distance": 0,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t9",
-      "p_r_distance": 1.5578
+      "p_r_distance": 1.5775
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t8": [
@@ -15585,7 +15585,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t4",
       "p_o_distance": 0,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t5",
-      "p_r_distance": 1.5738
+      "p_r_distance": 1.6059
     }
   ],
   "41979864-a150-5b69-a41c-fde7e45249ed/t9": [
@@ -15602,7 +15602,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t5",
       "p_o_distance": 0,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t6",
-      "p_r_distance": 1.5434
+      "p_r_distance": 1.5376
     }
   ],
   "42f17a44-d1af-5dd5-8bd9-d5ebe02f1819/t0": [
@@ -16208,7 +16208,7 @@
       "tags": ["attributes_female", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 31,
+      "ntokens": 32,
       "nchar": 157,
       "reprint_status": "orig_u",
       "potential_original": "e296129c-2aac-5e2c-a63e-dc43e9354bf2/t28",
@@ -16242,11 +16242,11 @@
       "tags": ["housing_sale1", "housing_sale2", "transactiontype_offer1", "transactiontype_sale1", "trolley", "ut_things_storeNmove"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 37,
+      "ntokens": 38,
       "nchar": 167,
       "reprint_status": "reprint",
       "potential_original": "e296129c-2aac-5e2c-a63e-dc43e9354bf2/t1",
-      "p_o_distance": 0.743,
+      "p_o_distance": 0.6867,
       "potential_reprint": "63f5d97d-b578-54f6-bb5b-9bc04e08a818/t20",
       "p_r_distance": 1.6605
     }
@@ -16531,7 +16531,7 @@
       "tags": "bizpromo2",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 47,
+      "ntokens": 48,
       "nchar": 258,
       "reprint_status": "orig_u",
       "potential_original": "99798c1f-30cc-57f8-bf06-4366ca7401ea/t35",
@@ -16616,7 +16616,7 @@
       "tags": "lottery",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 106,
+      "ntokens": 107,
       "nchar": 624,
       "reprint_status": "orig_r",
       "potential_original": "262265c7-d084-58b3-9b27-5661b7bd4b01/t9",
@@ -17483,7 +17483,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 38,
+      "ntokens": 39,
       "nchar": 192,
       "reprint_status": "reprint",
       "potential_original": "b415fdda-776b-50da-8490-4becad627955/t37",
@@ -17772,7 +17772,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "bed", "bedding", "ut_household", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 18,
+      "ntokens": 19,
       "nchar": 92,
       "reprint_status": "reprint",
       "potential_original": "7fe8ece7-87fd-50f1-8012-3af53afeeb69/t7",
@@ -17946,9 +17946,9 @@
       "nchar": 201,
       "reprint_status": "orig_r",
       "potential_original": "7fe8ece7-87fd-50f1-8012-3af53afeeb69/t34",
-      "p_o_distance": 1.3502,
+      "p_o_distance": 1.3443,
       "potential_reprint": "16db3ece-5f8d-5844-ae67-6b8cd60c34ca/t34",
-      "p_r_distance": 0.3251
+      "p_r_distance": 0.3318
     }
   ],
   "4b032b69-be5f-5d93-b51b-2d1e3544fd4e/t24": [
@@ -17993,7 +17993,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 26,
+      "ntokens": 27,
       "nchar": 117,
       "reprint_status": "orig_r",
       "potential_original": "7fe8ece7-87fd-50f1-8012-3af53afeeb69/t33",
@@ -18418,7 +18418,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "hand", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 28,
+      "ntokens": 29,
       "nchar": 134,
       "reprint_status": "reprint",
       "potential_original": "c28bce0d-6a22-5014-be64-1b6f3e086c56/t19",
@@ -19030,7 +19030,7 @@
       "tags": ["housing_sale1", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 69,
+      "ntokens": 70,
       "nchar": 396,
       "reprint_status": "reprint",
       "potential_original": "cdfa52b8-1045-5ec7-8594-d914f7aaf72a/t1",
@@ -19115,7 +19115,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "hay", "oil", "ut_consumables_food", "ut_things_materials"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 100,
+      "ntokens": 101,
       "nchar": 512,
       "reprint_status": "reprint",
       "potential_original": "cdfa52b8-1045-5ec7-8594-d914f7aaf72a/t9",
@@ -19608,7 +19608,7 @@
       "tags": ["attributes_female", "housing_sale1", "housing_sale2", "transactiontype_offer1", "transactiontype_sale1", "legumes", "ut_consumables_food"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 54,
+      "ntokens": 55,
       "nchar": 309,
       "reprint_status": "orig_r",
       "potential_original": "cdfa52b8-1045-5ec7-8594-d914f7aaf72a/t13",
@@ -20662,7 +20662,7 @@
       "tags": ["housing_sale1", "housing_sale2", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 54,
+      "ntokens": 55,
       "nchar": 271,
       "reprint_status": "orig_r",
       "potential_original": "d439b457-40e8-58d2-8fa1-701d6b6b8af1/t26",
@@ -20747,7 +20747,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "bedding", "clothing", "ut_household", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 30,
+      "ntokens": 31,
       "nchar": 148,
       "reprint_status": "orig_r",
       "potential_original": "d439b457-40e8-58d2-8fa1-701d6b6b8af1/t24",
@@ -21733,7 +21733,7 @@
       "tags": ["housing_sale1", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 36,
+      "ntokens": 37,
       "nchar": 184,
       "reprint_status": "reprint",
       "potential_original": "64b4bd3d-7890-57db-a39a-f324bcfc10ac/t30",
@@ -21835,7 +21835,7 @@
       "tags": ["transactiontype_request1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 33,
+      "ntokens": 34,
       "nchar": 194,
       "reprint_status": "reprint",
       "potential_original": "64b4bd3d-7890-57db-a39a-f324bcfc10ac/t32",
@@ -21937,7 +21937,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 24,
+      "ntokens": 25,
       "nchar": 131,
       "reprint_status": "orig_r",
       "potential_original": "620181df-ebd1-58ff-af2c-193c7d82e682/t33",
@@ -22039,7 +22039,7 @@
       "tags": "bizpromo2",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 144,
+      "ntokens": 145,
       "nchar": 868,
       "reprint_status": "reprint",
       "potential_original": "d71220cd-1d11-5ed7-9fa0-ee7299f867e5/t4",
@@ -22243,11 +22243,11 @@
       "tags": ["attributes_female", "transactiontype_offer2", "alcohol", "bag", "clothing", "hand", "headdress", "neck", "tableware", "texmaterial", "underwear", "weapon", "ut_consumables_drink", "ut_household", "ut_clothing", "ut_textiles", "ut_things_accessories"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 241,
+      "ntokens": 242,
       "nchar": 1382,
       "reprint_status": "orig_r",
       "potential_original": "d71220cd-1d11-5ed7-9fa0-ee7299f867e5/t7",
-      "p_o_distance": 1.8908,
+      "p_o_distance": 1.8931,
       "potential_reprint": "c5ce4eac-dd07-5db1-8f67-390131499760/t13",
       "p_r_distance": 0.3239
     }
@@ -22600,7 +22600,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 34,
+      "ntokens": 35,
       "nchar": 166,
       "reprint_status": "orig_r",
       "potential_original": "ce0c4cc4-0767-56d3-8ad4-0217b34c8ad0/t4",
@@ -22685,7 +22685,7 @@
       "tags": ["lostandfound1", "transactiontype_offer1", "bag", "storage", "texmaterial", "underwear", "ut_clothing", "ut_textiles", "ut_things_accessories", "ut_things_storeNmove"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 88,
+      "ntokens": 89,
       "nchar": 498,
       "reprint_status": "orig_u",
       "potential_original": "ce0c4cc4-0767-56d3-8ad4-0217b34c8ad0/t3",
@@ -22855,7 +22855,7 @@
       "tags": ["attributes_female", "boarding2", "employment1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 116,
+      "ntokens": 117,
       "nchar": 576,
       "reprint_status": "orig_r",
       "potential_original": "757a3543-af30-5a99-a2c3-f5962ca264df/t7",
@@ -23405,7 +23405,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t6",
       "p_o_distance": 1.435,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t13",
-      "p_r_distance": 0
+      "p_r_distance": 0.9733
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t10": [
@@ -23421,8 +23421,8 @@
       "reprint_status": "reprint",
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t2",
       "p_o_distance": 0,
-      "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t20",
-      "p_r_distance": 1.6123
+      "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t32",
+      "p_r_distance": 1.6782
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t11": [
@@ -23439,7 +23439,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t3",
       "p_o_distance": 0,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t14",
-      "p_r_distance": 1.629
+      "p_r_distance": 1.6347
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t12": [
@@ -23455,7 +23455,7 @@
       "reprint_status": "reprint",
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t4",
       "p_o_distance": 0,
-      "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t13",
+      "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t23",
       "p_r_distance": 1.6731
     }
   ],
@@ -23472,8 +23472,8 @@
       "reprint_status": "reprint",
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t6",
       "p_o_distance": 0.5647,
-      "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t13",
-      "p_r_distance": 1.435
+      "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t7",
+      "p_r_distance": 1.4575
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t14": [
@@ -23490,7 +23490,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t18",
       "p_o_distance": 0,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t25",
-      "p_r_distance": 1.4274
+      "p_r_distance": 1.4724
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t15": [
@@ -23507,7 +23507,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t19",
       "p_o_distance": 0,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t19",
-      "p_r_distance": 1.5189
+      "p_r_distance": 1.5235
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t16": [
@@ -23541,7 +23541,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t21",
       "p_o_distance": 0,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t1",
-      "p_r_distance": 1.4104
+      "p_r_distance": 1.4202
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t18": [
@@ -23558,7 +23558,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t22",
       "p_o_distance": 0,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t26",
-      "p_r_distance": 1.6381
+      "p_r_distance": 1.6526
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t19": [
@@ -23575,7 +23575,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t26",
       "p_o_distance": 1.6153,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t21",
-      "p_r_distance": 0.4274
+      "p_r_distance": 0.9849
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t2": [
@@ -23592,7 +23592,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t12",
       "p_o_distance": 1.6071,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t14",
-      "p_r_distance": 0
+      "p_r_distance": 0.6628
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t20": [
@@ -23600,7 +23600,7 @@
       "isheader": false,
       "date": "1740-12-27",
       "tags_section": "saleoffer",
-      "tags": ["transactiontype_offer1", "transactiontype_sale1", "honey", "ut_consumables_food"],
+      "tags": ["transactiontype_offer1", "transactiontype_sale1", "headdress", "honey", "ut_consumables_food", "ut_clothing", "ut_textiles", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 17,
@@ -23609,7 +23609,7 @@
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t28",
       "p_o_distance": 1.3115,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t23",
-      "p_r_distance": 0
+      "p_r_distance": 0.504
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t21": [
@@ -23626,7 +23626,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t2",
       "p_o_distance": 1.8146,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t24",
-      "p_r_distance": 0.4684
+      "p_r_distance": 0.97
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t22": [
@@ -23643,7 +23643,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t18",
       "p_o_distance": 1.4297,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t25",
-      "p_r_distance": 0.4608
+      "p_r_distance": 0.743
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t23": [
@@ -23694,7 +23694,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t12",
       "p_o_distance": 1.5437,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t34",
-      "p_r_distance": 1.4801
+      "p_r_distance": 1.4359
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t26": [
@@ -23711,7 +23711,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t12",
       "p_o_distance": 1.5033,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t29",
-      "p_r_distance": 1.476
+      "p_r_distance": 1.4861
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t27": [
@@ -23728,7 +23728,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t18",
       "p_o_distance": 1.7558,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t25",
-      "p_r_distance": 1.7088
+      "p_r_distance": 1.746
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t28": [
@@ -23745,7 +23745,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t24",
       "p_o_distance": 0.4684,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t41",
-      "p_r_distance": 1.5794
+      "p_r_distance": 1.5974
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t29": [
@@ -23758,11 +23758,11 @@
       "language": "de",
       "ntokens": 9,
       "nchar": 53,
-      "reprint_status": "orig_r",
+      "reprint_status": "orig_u",
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t11",
       "p_o_distance": 1.5126,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t32",
-      "p_r_distance": 0
+      "p_r_distance": 1.0696
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t3": [
@@ -23779,7 +23779,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t12",
       "p_o_distance": 1.5103,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t15",
-      "p_r_distance": 0
+      "p_r_distance": 0.681
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t30": [
@@ -23804,7 +23804,7 @@
       "isheader": false,
       "date": "1740-12-27",
       "tags_section": "lendoffer",
-      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "transactiontype_offer2"],
+      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "transactiontype_offer2", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 28,
@@ -23813,7 +23813,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t35",
       "p_o_distance": 1.5454,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t40",
-      "p_r_distance": 0.3715
+      "p_r_distance": 0.6294
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t32": [
@@ -23830,7 +23830,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t29",
       "p_o_distance": 1.4138,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t10",
-      "p_r_distance": 1.2779
+      "p_r_distance": 1.3152
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t33": [
@@ -23838,7 +23838,7 @@
       "isheader": false,
       "date": "1740-12-27",
       "tags_section": "lendoffer",
-      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "transactiontype_offer2"],
+      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "transactiontype_offer2", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 25,
@@ -23847,7 +23847,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t31",
       "p_o_distance": 1.4005,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t41",
-      "p_r_distance": 0
+      "p_r_distance": 0.8052
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t34": [
@@ -23864,7 +23864,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t29",
       "p_o_distance": 0.2721,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t10",
-      "p_r_distance": 1.4798
+      "p_r_distance": 1.4808
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t35": [
@@ -23881,7 +23881,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t30",
       "p_o_distance": 0,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t11",
-      "p_r_distance": 1.3523
+      "p_r_distance": 1.3782
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t36": [
@@ -23897,8 +23897,8 @@
       "reprint_status": "reprint",
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t0",
       "p_o_distance": 0,
-      "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t12",
-      "p_r_distance": 1.4528
+      "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t38",
+      "p_r_distance": 1.4626
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t37": [
@@ -23906,7 +23906,7 @@
       "isheader": false,
       "date": "1740-12-27",
       "tags_section": "lendoffer",
-      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
+      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 39,
@@ -23915,7 +23915,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t35",
       "p_o_distance": 1.4034,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t0",
-      "p_r_distance": 0.3389
+      "p_r_distance": 0.6162
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t38": [
@@ -23923,7 +23923,7 @@
       "isheader": false,
       "date": "1740-12-27",
       "tags_section": "lendoffer",
-      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
+      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 47,
@@ -23932,7 +23932,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t21",
       "p_o_distance": 1.4104,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t1",
-      "p_r_distance": 0
+      "p_r_distance": 0.5993
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t39": [
@@ -23945,11 +23945,11 @@
       "language": "de",
       "ntokens": 29,
       "nchar": 169,
-      "reprint_status": "orig_r",
+      "reprint_status": "orig_u",
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t0",
       "p_o_distance": 1.5713,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t2",
-      "p_r_distance": 0.3626
+      "p_r_distance": 1.2224
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t4": [
@@ -23983,7 +23983,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t15",
       "p_o_distance": 1.4862,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t17",
-      "p_r_distance": 0
+      "p_r_distance": 0.5198
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t6": [
@@ -24011,13 +24011,13 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "health", "ut_consumables_drugs"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 44,
+      "ntokens": 45,
       "nchar": 241,
       "reprint_status": "orig_r",
       "potential_original": "709bb17d-0b3d-5b90-b5fb-b619ce599caa/t5",
       "p_o_distance": 1.6012,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t19",
-      "p_r_distance": 0
+      "p_r_distance": 0.8658
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t8": [
@@ -24034,7 +24034,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t20",
       "p_o_distance": 1.493,
       "potential_reprint": "59bd5668-31e9-567b-8c04-a886ec070a62/t20",
-      "p_r_distance": 0.4684
+      "p_r_distance": 0.8114
     }
   ],
   "598ef476-380c-5bc6-8f06-894eb4161a7c/t9": [
@@ -24051,7 +24051,7 @@
       "potential_original": "29745511-7922-58a0-b731-2e22cc1d945b/t1",
       "p_o_distance": 0.3218,
       "potential_reprint": "16e7c9a1-69b5-58ac-8e32-72b886b5d3cd/t19",
-      "p_r_distance": 1.8194
+      "p_r_distance": 1.8247
     }
   ],
   "5c87c329-236d-5ecd-be38-dfb450961944/t0": [
@@ -24164,7 +24164,7 @@
       "tags": ["attributes_female", "boarding2", "housing_rent3"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 153,
+      "ntokens": 154,
       "nchar": 838,
       "reprint_status": "orig_r",
       "potential_original": "565e46f4-6dde-52bb-b1f9-34f46562c0f1/t6",
@@ -24351,7 +24351,7 @@
       "tags": ["print8", "art", "ut_household"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 287,
+      "ntokens": 288,
       "nchar": 1760,
       "reprint_status": "orig_u",
       "potential_original": "565e46f4-6dde-52bb-b1f9-34f46562c0f1/t11",
@@ -24436,7 +24436,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 34,
+      "ntokens": 35,
       "nchar": 167,
       "reprint_status": "reprint",
       "potential_original": "565e46f4-6dde-52bb-b1f9-34f46562c0f1/t24",
@@ -24746,7 +24746,7 @@
       "nchar": 295,
       "reprint_status": "orig_r",
       "potential_original": "cafc22f6-88c2-5b95-8161-cccbbf75e395/t25",
-      "p_o_distance": 1.407,
+      "p_o_distance": 1.3745,
       "potential_reprint": "95910726-636b-56c4-9b3b-126b0080185e/t36",
       "p_r_distance": 0
     }
@@ -24963,7 +24963,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "transactiontype_offer2"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 42,
+      "ntokens": 43,
       "nchar": 209,
       "reprint_status": "reprint",
       "potential_original": "cafc22f6-88c2-5b95-8161-cccbbf75e395/t36",
@@ -24997,7 +24997,7 @@
       "tags": "lottery",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 107,
+      "ntokens": 108,
       "nchar": 624,
       "reprint_status": "reprint",
       "potential_original": "467b6435-7aab-544d-8d85-47fadb14c4d5/t29",
@@ -25490,7 +25490,7 @@
       "tags": ["attributes_female", "print3", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 59,
+      "ntokens": 61,
       "nchar": 401,
       "reprint_status": "orig_u",
       "potential_original": "70324d56-383f-53d6-ba5c-3b36b08908e6/t13",
@@ -25609,7 +25609,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 20,
+      "ntokens": 21,
       "nchar": 94,
       "reprint_status": "orig_r",
       "potential_original": "16db3ece-5f8d-5844-ae67-6b8cd60c34ca/t37",
@@ -26612,7 +26612,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 26,
+      "ntokens": 27,
       "nchar": 125,
       "reprint_status": "reprint",
       "potential_original": "cafc22f6-88c2-5b95-8161-cccbbf75e395/t12",
@@ -26697,13 +26697,13 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "cloth", "texmaterial", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 37,
+      "ntokens": 38,
       "nchar": 203,
       "reprint_status": "reprint",
       "potential_original": "cafc22f6-88c2-5b95-8161-cccbbf75e395/t25",
       "p_o_distance": 0.6146,
-      "potential_reprint": "95910726-636b-56c4-9b3b-126b0080185e/t37",
-      "p_r_distance": 1.4088
+      "potential_reprint": "95910726-636b-56c4-9b3b-126b0080185e/t36",
+      "p_r_distance": 1.4087
     }
   ],
   "64b4bd3d-7890-57db-a39a-f324bcfc10ac/t22": [
@@ -26850,7 +26850,7 @@
       "tags": ["housing_sale1", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 36,
+      "ntokens": 37,
       "nchar": 184,
       "reprint_status": "orig_r",
       "potential_original": "cafc22f6-88c2-5b95-8161-cccbbf75e395/t37",
@@ -26884,7 +26884,7 @@
       "tags": ["transactiontype_request1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 33,
+      "ntokens": 34,
       "nchar": 194,
       "reprint_status": "orig_r",
       "potential_original": "467b6435-7aab-544d-8d85-47fadb14c4d5/t18",
@@ -27139,7 +27139,7 @@
       "tags": "NA",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 160,
+      "ntokens": 162,
       "nchar": 863,
       "reprint_status": "orig_u",
       "potential_original": "9a09dfc2-cf91-56e1-9b36-1f0d8f263a88/t38",
@@ -27326,7 +27326,7 @@
       "tags": ["housing_sale1", "housing_sale2", "transactiontype_offer1", "transactiontype_sale1", "stove", "ut_household", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 64,
+      "ntokens": 65,
       "nchar": 365,
       "reprint_status": "orig_r",
       "potential_original": "9a09dfc2-cf91-56e1-9b36-1f0d8f263a88/t1",
@@ -27649,7 +27649,7 @@
       "tags": ["attributes_female", "boarding2", "employment1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 116,
+      "ntokens": 117,
       "nchar": 575,
       "reprint_status": "reprint",
       "potential_original": "572a9e39-1185-54af-9fb4-c372b5997073/t11",
@@ -28159,7 +28159,7 @@
       "tags": ["attributes_female", "employment1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 70,
+      "ntokens": 71,
       "nchar": 398,
       "reprint_status": "orig_r",
       "potential_original": "d439b457-40e8-58d2-8fa1-701d6b6b8af1/t38",
@@ -29128,7 +29128,7 @@
       "tags": "boarding2",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 328,
+      "ntokens": 331,
       "nchar": 1877,
       "reprint_status": "orig_u",
       "potential_original": "3787595f-bec6-52d9-ba0d-bcf8ac1849e6/t15",
@@ -29166,7 +29166,7 @@
       "nchar": 237,
       "reprint_status": "orig_r",
       "potential_original": "4b032b69-be5f-5d93-b51b-2d1e3544fd4e/t23",
-      "p_o_distance": 1.4649,
+      "p_o_distance": 1.4629,
       "potential_reprint": "62d19ca1-fde8-592e-b3c4-273d7769ac0f/t39",
       "p_r_distance": 0
     }
@@ -29268,7 +29268,7 @@
       "nchar": 191,
       "reprint_status": "orig_u",
       "potential_original": "4b032b69-be5f-5d93-b51b-2d1e3544fd4e/t23",
-      "p_o_distance": 1.6675,
+      "p_o_distance": 1.6637,
       "potential_reprint": "bbf3c5ce-84c8-5441-af91-1ceeb2fbeee7/t2",
       "p_r_distance": 1.6568
     }
@@ -29400,7 +29400,7 @@
       "tags": ["attributes_female", "boarding2", "housing_rent3"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 166,
+      "ntokens": 167,
       "nchar": 903,
       "reprint_status": "reprint",
       "potential_original": "5c87c329-236d-5ecd-be38-dfb450961944/t14",
@@ -29451,7 +29451,7 @@
       "tags": ["attributes_female", "lostandfound1", "transactiontype_offer1", "crime", "headdress", "lighting", "ut_household", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 114,
+      "ntokens": 115,
       "nchar": 680,
       "reprint_status": "orig_u",
       "potential_original": "5c87c329-236d-5ecd-be38-dfb450961944/t13",
@@ -31117,7 +31117,7 @@
       "tags": ["attributes_female", "lottery", "transactiontype_offer2"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 153,
+      "ntokens": 156,
       "nchar": 696,
       "reprint_status": "orig_u",
       "potential_original": "a5680d58-94d2-5e7c-95d3-393db4cb4d71/t29",
@@ -32126,7 +32126,7 @@
       "potential_original": "42f17a44-d1af-5dd5-8bd9-d5ebe02f1819/t38",
       "p_o_distance": 0.2638,
       "potential_reprint": "4b032b69-be5f-5d93-b51b-2d1e3544fd4e/t23",
-      "p_r_distance": 1.3502
+      "p_r_distance": 1.3443
     }
   ],
   "7fe8ece7-87fd-50f1-8012-3af53afeeb69/t35": [
@@ -32375,7 +32375,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "bed", "bedding", "ut_household", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 19,
+      "ntokens": 20,
       "nchar": 92,
       "reprint_status": "orig_r",
       "potential_original": "42f17a44-d1af-5dd5-8bd9-d5ebe02f1819/t5",
@@ -32426,7 +32426,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 31,
+      "ntokens": 32,
       "nchar": 150,
       "reprint_status": "reprint",
       "potential_original": "0a8e166c-e0da-5efe-90b8-9758b68160e1/t30",
@@ -32494,7 +32494,7 @@
       "tags": ["lostandfound1", "transactiontype_offer1", "transactiontype_request3", "crime", "domestic", "secondhand", "ut_household"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 68,
+      "ntokens": 69,
       "nchar": 361,
       "reprint_status": "orig_r",
       "potential_original": "385c6339-378e-5de0-a535-e7616582b766/t12",
@@ -32919,7 +32919,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "livestock", "ut_animals"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 37,
+      "ntokens": 38,
       "nchar": 212,
       "reprint_status": "reprint",
       "potential_original": "0a8e166c-e0da-5efe-90b8-9758b68160e1/t36",
@@ -33055,7 +33055,7 @@
       "tags": ["attributes_female", "print3", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 40,
+      "ntokens": 41,
       "nchar": 192,
       "reprint_status": "orig_u",
       "potential_original": "046f498b-7bd5-58a1-8ea3-46e5d9bcdc19/t14",
@@ -33599,7 +33599,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "health", "ut_consumables_drugs"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 53,
+      "ntokens": 55,
       "nchar": 252,
       "reprint_status": "orig_u",
       "potential_original": "a032166e-3468-52ca-bfcc-6a735d9634ec/t26",
@@ -33820,7 +33820,7 @@
       "tags": ["print3", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 57,
+      "ntokens": 58,
       "nchar": 264,
       "reprint_status": "orig_r",
       "potential_original": "84e3f77b-13ad-5f74-a50d-8756e46e663e/t27",
@@ -34818,7 +34818,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t1": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "lendoffer",
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
@@ -34835,7 +34835,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t10": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "labourinfo",
       "tags": ["employment1", "transactiontype_offer2"],
       "tags_manual": "NA",
@@ -34852,7 +34852,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t11": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "labourinfo",
       "tags": ["boarding2", "employment1"],
       "tags_manual": "NA",
@@ -34869,7 +34869,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t12": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "labourinfo",
       "tags": ["attributes_female", "boarding2"],
       "tags_manual": "NA",
@@ -34886,7 +34886,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t13": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "labourinfo",
       "tags": ["employment1", "livestock", "ut_animals"],
       "tags_manual": "NA",
@@ -34903,7 +34903,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t14": [
     {
       "isheader": true,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": "NA",
       "tags_manual": "NA",
@@ -34920,7 +34920,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t15": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["bizpromo2", "finance_sale2", "crime"],
       "tags_manual": "NA",
@@ -34937,7 +34937,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t17": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["hay", "ut_things_materials"],
       "tags_manual": "NA",
@@ -34954,7 +34954,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t18": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["transactiontype_offer2", "hay", "wood", "ut_things_materials"],
       "tags_manual": "NA",
@@ -34971,7 +34971,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t19": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["lostandfound2", "mercery", "ut_things_accessories"],
       "tags_manual": "NA",
@@ -34988,7 +34988,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t2": [
     {
       "isheader": true,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "lostandfoundheader",
       "tags": ["lostandfound1", "transactiontype_offer1"],
       "tags_manual": "NA",
@@ -35005,7 +35005,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t20": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": "NA",
       "tags_manual": "NA",
@@ -35022,7 +35022,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t21": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["attributes_female", "bizpromo2", "cabinet", "mirror", "ut_household"],
       "tags_manual": "NA",
@@ -35039,7 +35039,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t22": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["lostandfound2", "transactiontype_offer2", "bag", "ut_things_accessories"],
       "tags_manual": "NA",
@@ -35056,7 +35056,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t23": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["attributes_female", "transactiontype_offer2", "cloth", "ut_textiles"],
       "tags_manual": "NA",
@@ -35073,7 +35073,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t24": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["attributes_female", "bizpromo2"],
       "tags_manual": "NA",
@@ -35090,7 +35090,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t25": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["trolley", "ut_things_storeNmove"],
       "tags_manual": "NA",
@@ -35107,7 +35107,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t26": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": "NA",
       "tags_manual": "NA",
@@ -35124,7 +35124,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t27": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["transactiontype_offer2", "hay", "ut_things_materials"],
       "tags_manual": "NA",
@@ -35141,7 +35141,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t28": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["lottery", "transactiontype_offer2"],
       "tags_manual": "NA",
@@ -35158,7 +35158,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t29": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["attributes_female", "boarding2", "employment2", "transactiontype_request2"],
       "tags_manual": "NA",
@@ -35175,7 +35175,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t3": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "lostandfoundheader",
       "tags": ["lostandfound1", "transactiontype_offer1", "transactiontype_request3", "bag", "weapon", "ut_things_accessories"],
       "tags_manual": "NA",
@@ -35192,7 +35192,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t30": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["barrel", "health", "ut_consumables_drugs", "ut_things_storeNmove"],
       "tags_manual": "NA",
@@ -35209,7 +35209,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t31": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["employment2", "transactiontype_request2"],
       "tags_manual": "NA",
@@ -35226,7 +35226,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t32": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "othernews",
       "tags": ["hay", "ut_things_materials"],
       "tags_manual": "NA",
@@ -35243,7 +35243,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t33": [
     {
       "isheader": true,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "curious",
       "tags": "NA",
       "tags_manual": "NA",
@@ -35260,7 +35260,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t34": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "curious",
       "tags": "attributes_female",
       "tags_manual": "NA",
@@ -35277,7 +35277,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t4": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "lostandfoundheader",
       "tags": ["attributes_female", "lostandfound1", "transactiontype_offer1", "transactiontype_offer3", "shoes", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
@@ -35294,7 +35294,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t5": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "lostandfoundheader",
       "tags": ["lostandfound1", "transactiontype_offer1", "transactiontype_request3"],
       "tags_manual": "NA",
@@ -35311,7 +35311,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t6": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "lostandfoundheader",
       "tags": ["lostandfound1", "transactiontype_offer1", "transactiontype_request3", "clothing", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
@@ -35328,7 +35328,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t7": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "lostandfoundheader",
       "tags": ["lostandfound1", "transactiontype_offer1", "texmaterial", "ut_textiles", "lostandfound2", "fraternal_twin"],
       "tags_manual": "NA",
@@ -35345,7 +35345,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t8": [
     {
       "isheader": true,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "labourinfo",
       "tags": ["boarding2", "transactiontype_request2"],
       "tags_manual": "NA",
@@ -35362,7 +35362,7 @@
   "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t9": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "labourinfo",
       "tags": "employment1",
       "tags_manual": "NA",
@@ -35775,7 +35775,7 @@
       "tags": ["print2", "transactiontype_offer2", "fish", "ut_consumables_food"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 95,
+      "ntokens": 96,
       "nchar": 474,
       "reprint_status": "orig_r",
       "potential_original": "64b4bd3d-7890-57db-a39a-f324bcfc10ac/t13",
@@ -35792,7 +35792,7 @@
       "tags": ["attributes_female", "lottery", "oil", "ut_consumables_food"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 103,
+      "ntokens": 104,
       "nchar": 515,
       "reprint_status": "orig_r",
       "potential_original": "620181df-ebd1-58ff-af2c-193c7d82e682/t31",
@@ -36183,7 +36183,7 @@
       "tags": ["attributes_female", "boarding2", "transactiontype_offer2", "knitting", "plant", "texmaterial", "yarn", "ut_textiles", "ut_things_materials", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 333,
+      "ntokens": 335,
       "nchar": 1728,
       "reprint_status": "orig_r",
       "potential_original": "06c4f4e4-663e-56ae-9090-62c85de0fb75/t36",
@@ -37492,7 +37492,7 @@
       "tags": "NA",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 74,
+      "ntokens": 75,
       "nchar": 421,
       "reprint_status": "reprint",
       "potential_original": "1b1b14b1-beb3-56c5-8bff-e9bbc2d4543b/t18",
@@ -37543,7 +37543,7 @@
       "tags": ["transactiontype_offer2", "texmaterial", "underwear", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 22,
+      "ntokens": 23,
       "nchar": 128,
       "reprint_status": "reprint",
       "potential_original": "1b1b14b1-beb3-56c5-8bff-e9bbc2d4543b/t22",
@@ -37895,7 +37895,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t0": [
     {
       "isheader": true,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
@@ -37912,12 +37912,12 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t1": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "carriage", "ut_things_storeNmove"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 64,
+      "ntokens": 65,
       "nchar": 374,
       "reprint_status": "orig_r",
       "potential_original": "d9c98259-c83b-577e-a883-034fd22cf260/t3",
@@ -37929,7 +37929,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t10": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["housing_sale1", "housing_sale2", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
@@ -37946,7 +37946,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t11": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "outerwear", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
@@ -37963,7 +37963,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t12": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "syrup", "texmaterial", "underwear", "ut_consumables_drink", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
@@ -37980,7 +37980,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t13": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["attributes_female", "print3", "transactiontype_offer1", "transactiontype_sale1", "shopequip", "ut_things_devicesNcomponents"],
       "tags_manual": "NA",
@@ -37997,7 +37997,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t14": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["housing_sale1", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
@@ -38014,7 +38014,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t15": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["housing_sale1", "housing_sale2", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
@@ -38031,7 +38031,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t17": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
@@ -38048,7 +38048,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t18": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["housing_sale2", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
@@ -38065,12 +38065,12 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t19": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["attributes_female", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 12,
+      "ntokens": 13,
       "nchar": 81,
       "reprint_status": "orig_r",
       "potential_original": "3e4b7dd2-341d-572b-82df-ea6ca56d8764/t6",
@@ -38082,7 +38082,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t2": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "plant", "tropicalfruit", "ut_consumables_food", "ut_things_materials"],
       "tags_manual": "NA",
@@ -38099,7 +38099,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t20": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
@@ -38116,7 +38116,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t21": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "meat", "table", "ut_consumables_food", "ut_household"],
       "tags_manual": "NA",
@@ -38133,7 +38133,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t22": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["housing_sale1", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
@@ -38150,7 +38150,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t23": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
@@ -38167,7 +38167,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t24": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "barrel", "mineralwater", "ut_consumables_drink", "ut_consumables_drugs", "ut_things_storeNmove"],
       "tags_manual": "NA",
@@ -38184,7 +38184,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t25": [
     {
       "isheader": true,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saledemand",
       "tags": ["transactiontype_request1", "transactiontype_sale1"],
       "tags_manual": "NA",
@@ -38201,7 +38201,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t26": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saledemand",
       "tags": ["transactiontype_request1", "transactiontype_sale1", "bag", "storage", "ut_things_accessories", "ut_things_storeNmove"],
       "tags_manual": "NA",
@@ -38218,7 +38218,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t27": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saledemand",
       "tags": ["transactiontype_request1", "transactiontype_sale1", "cloth", "clothing", "texmaterial", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
@@ -38235,7 +38235,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t28": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saledemand",
       "tags": ["transactiontype_request1", "transactiontype_sale1", "livestock", "ut_animals"],
       "tags_manual": "NA",
@@ -38252,7 +38252,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t29": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saledemand",
       "tags": ["transactiontype_request1", "transactiontype_sale1", "cloth", "clothing", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
@@ -38269,7 +38269,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t3": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "hay", "ut_things_materials"],
       "tags_manual": "NA",
@@ -38286,7 +38286,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t30": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saledemand",
       "tags": ["transactiontype_request1", "transactiontype_sale1", "secondhand"],
       "tags_manual": "NA",
@@ -38303,7 +38303,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t31": [
     {
       "isheader": true,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "lendoffer",
       "tags": ["transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
@@ -38320,7 +38320,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t32": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "lendoffer",
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
@@ -38337,7 +38337,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t33": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "lendoffer",
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
@@ -38354,7 +38354,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t34": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "lendoffer",
       "tags": ["transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
@@ -38371,7 +38371,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t35": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "lendoffer",
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
@@ -38388,7 +38388,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t36": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "lendoffer",
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
@@ -38405,7 +38405,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t4": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["housing_sale2", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
@@ -38422,7 +38422,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t5": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["print3", "transactiontype_offer1", "transactiontype_sale1", "bureau", "livestock", "ut_household", "ut_animals"],
       "tags_manual": "NA",
@@ -38439,7 +38439,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t6": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["housing_sale1", "housing_sale2", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
@@ -38456,7 +38456,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t7": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "secondhand", "suitcase", "ut_things_storeNmove"],
       "tags_manual": "NA",
@@ -38473,7 +38473,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t8": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "buildingcomponents", "ut_things_devicesNcomponents"],
       "tags_manual": "NA",
@@ -38490,7 +38490,7 @@
   "9d4b4add-abbb-5692-8a83-00022656457e/t9": [
     {
       "isheader": false,
-      "date": "1740-08-27",
+      "date": "1740-08-30",
       "tags_section": "saleoffer",
       "tags": ["attributes_female", "print3", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
@@ -38801,7 +38801,7 @@
       "tags": ["attributes_female", "print3", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 45,
+      "ntokens": 46,
       "nchar": 200,
       "reprint_status": "orig_r",
       "potential_original": "0a8e166c-e0da-5efe-90b8-9758b68160e1/t2",
@@ -39005,7 +39005,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "fish", "ut_consumables_food"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 24,
+      "ntokens": 25,
       "nchar": 110,
       "reprint_status": "orig_r",
       "potential_original": "0a8e166c-e0da-5efe-90b8-9758b68160e1/t34",
@@ -39515,7 +39515,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 25,
+      "ntokens": 26,
       "nchar": 91,
       "reprint_status": "reprint",
       "potential_original": "e41cf68f-1a36-5750-8e4c-11bca7efcf63/t25",
@@ -40284,7 +40284,7 @@
       "nchar": 648,
       "reprint_status": "orig_r",
       "potential_original": "29f8e425-7c6d-501f-a71c-2c34942aa802/t12",
-      "p_o_distance": 1.41,
+      "p_o_distance": 1.4183,
       "potential_reprint": "ac00e94d-c07e-5c33-96dc-7046ec44a5f4/t8",
       "p_r_distance": 0.1834
     }
@@ -40416,13 +40416,13 @@
       "tags": ["employment2", "lostandfound2", "texmaterial", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 113,
+      "ntokens": 114,
       "nchar": 711,
       "reprint_status": "reprint",
       "potential_original": "29f8e425-7c6d-501f-a71c-2c34942aa802/t12",
       "p_o_distance": 0.3046,
       "potential_reprint": "ac00e94d-c07e-5c33-96dc-7046ec44a5f4/t8",
-      "p_r_distance": 1.4332
+      "p_r_distance": 1.4413
     }
   ],
   "a032166e-3468-52ca-bfcc-6a735d9634ec/t28": [
@@ -40433,7 +40433,7 @@
       "tags": ["attributes_female", "finance_loan2", "lottery", "transactiontype_offer2", "oil", "ut_consumables_food"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 140,
+      "ntokens": 141,
       "nchar": 662,
       "reprint_status": "reprint",
       "potential_original": "a45f093c-e6ed-57d6-99ea-478c435e38c3/t0",
@@ -40467,7 +40467,7 @@
       "tags": ["lostandfound1", "transactiontype_offer1", "transactiontype_request3", "crime", "domestic", "secondhand", "ut_household"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 68,
+      "ntokens": 69,
       "nchar": 361,
       "reprint_status": "reprint",
       "potential_original": "81c5e78d-edf9-556a-8ad2-51695627d588/t13",
@@ -40688,7 +40688,7 @@
       "tags": ["attributes_female", "boarding2", "transactiontype_offer2", "knitting", "plant", "texmaterial", "yarn", "ut_textiles", "ut_things_materials", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 329,
+      "ntokens": 331,
       "nchar": 1722,
       "reprint_status": "reprint",
       "potential_original": "987f8b55-c146-5bf9-b020-d5218172790a/t12",
@@ -41113,7 +41113,7 @@
       "tags": ["print2", "print8", "transactiontype_offer2", "fish", "ut_consumables_food"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 97,
+      "ntokens": 98,
       "nchar": 565,
       "reprint_status": "reprint",
       "potential_original": "3b1d53e2-d6e0-5dab-87a1-9b180b8ec850/t9",
@@ -41283,7 +41283,7 @@
       "tags": "employment1",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 83,
+      "ntokens": 84,
       "nchar": 459,
       "reprint_status": "reprint",
       "potential_original": "3b1d53e2-d6e0-5dab-87a1-9b180b8ec850/t3",
@@ -41459,7 +41459,7 @@
       "potential_original": "3b1d53e2-d6e0-5dab-87a1-9b180b8ec850/t5",
       "p_o_distance": 0.2192,
       "potential_reprint": "b05f4740-6e48-556f-889a-affd28fd55c0/t2",
-      "p_r_distance": 1.4851
+      "p_r_distance": 1.4865
     }
   ],
   "a36120b1-15c5-5aa4-b4cd-2af12cbb2295/t6": [
@@ -41589,7 +41589,7 @@
       "tags": ["print8", "transactiontype_offer2", "art", "ut_household"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 270,
+      "ntokens": 271,
       "nchar": 1610,
       "reprint_status": "orig_u",
       "potential_original": "17cc103d-3a56-5aa4-9312-65966c535381/t14",
@@ -41980,7 +41980,7 @@
       "tags": ["attributes_female", "finance_loan2", "lottery", "transactiontype_offer2", "oil", "ut_consumables_food"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 140,
+      "ntokens": 141,
       "nchar": 662,
       "reprint_status": "orig_r",
       "potential_original": "385c6339-378e-5de0-a535-e7616582b766/t19",
@@ -42184,7 +42184,7 @@
       "tags": ["dogs", "lostandfound1", "transactiontype_offer1", "transactiontype_request3", "crime", "weapon", "ut_things_accessories", "ut_animals"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 62,
+      "ntokens": 63,
       "nchar": 349,
       "reprint_status": "orig_u",
       "potential_original": "1ca38ca6-76a9-593b-8ed1-1a1d03b5ed05/t11",
@@ -43476,7 +43476,7 @@
       "tags": "employment1",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 101,
+      "ntokens": 102,
       "nchar": 566,
       "reprint_status": "reprint",
       "potential_original": "20f6347a-4640-557c-9491-43fd04c43f0c/t35",
@@ -43680,7 +43680,7 @@
       "tags": ["alcohol", "ut_consumables_drink"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 62,
+      "ntokens": 63,
       "nchar": 289,
       "reprint_status": "reprint",
       "potential_original": "e378df4a-5b8b-5f98-943d-5605158b55da/t12",
@@ -43714,7 +43714,7 @@
       "tags": ["transactiontype_offer2", "bed", "clothing", "ut_household", "ut_clothing", "ut_textiles", "table", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 90,
+      "ntokens": 91,
       "nchar": 451,
       "reprint_status": "reprint",
       "potential_original": "e378df4a-5b8b-5f98-943d-5605158b55da/t22",
@@ -43935,7 +43935,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "health", "ut_consumables_drugs"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 46,
+      "ntokens": 48,
       "nchar": 247,
       "reprint_status": "orig_r",
       "potential_original": "a36120b1-15c5-5aa4-b4cd-2af12cbb2295/t36",
@@ -43992,7 +43992,7 @@
       "potential_original": "4925de2a-9660-5f03-afd6-15780e3219c9/t2",
       "p_o_distance": 0.3521,
       "potential_reprint": "2176ac50-e98d-5fbd-bbfa-5b87ac3c77d9/t1",
-      "p_r_distance": 1.7707
+      "p_r_distance": 1.7675
     }
   ],
   "ae5e6c2b-a62f-542f-8e2a-22530942798b/t15": [
@@ -44173,7 +44173,7 @@
       "tags": ["attributes_female", "print3", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 28,
+      "ntokens": 29,
       "nchar": 149,
       "reprint_status": "orig_u",
       "potential_original": "4925de2a-9660-5f03-afd6-15780e3219c9/t14",
@@ -44870,7 +44870,7 @@
       "tags": ["tea", "transactiontype_offer2", "alcohol", "health", "ut_consumables_drink", "ut_consumables_drugs"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 132,
+      "ntokens": 133,
       "nchar": 800,
       "reprint_status": "orig_u",
       "potential_original": "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t23",
@@ -45159,7 +45159,7 @@
       "tags": ["bag", "storage", "ut_things_accessories", "ut_things_storeNmove"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 179,
+      "ntokens": 180,
       "nchar": 1013,
       "reprint_status": "orig_u",
       "potential_original": "955f0a91-616c-52de-85b2-2f5fb13ac8cc/t15",
@@ -45350,9 +45350,9 @@
       "nchar": 384,
       "reprint_status": "orig_r",
       "potential_original": "a36120b1-15c5-5aa4-b4cd-2af12cbb2295/t4",
-      "p_o_distance": 1.4314,
+      "p_o_distance": 1.4301,
       "potential_reprint": "2176ac50-e98d-5fbd-bbfa-5b87ac3c77d9/t1",
-      "p_r_distance": 0.2166
+      "p_r_distance": 0.2192
     }
   ],
   "b05f4740-6e48-556f-889a-affd28fd55c0/t20": [
@@ -45856,7 +45856,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "alcohol", "ut_consumables_drink"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 50,
+      "ntokens": 51,
       "nchar": 298,
       "reprint_status": "orig_r",
       "potential_original": "d9771ea0-21c5-5e92-b5d2-114cef996a8c/t10",
@@ -45958,7 +45958,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "livestock", "texmaterial", "yarn", "ut_textiles", "ut_animals"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 40,
+      "ntokens": 41,
       "nchar": 228,
       "reprint_status": "reprint",
       "potential_original": "d9771ea0-21c5-5e92-b5d2-114cef996a8c/t3",
@@ -47114,7 +47114,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 37,
+      "ntokens": 38,
       "nchar": 191,
       "reprint_status": "orig_r",
       "potential_original": "bbf3c5ce-84c8-5441-af91-1ceeb2fbeee7/t2",
@@ -47148,7 +47148,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 20,
+      "ntokens": 21,
       "nchar": 94,
       "reprint_status": "reprint",
       "potential_original": "62d19ca1-fde8-592e-b3c4-273d7769ac0f/t28",
@@ -47284,7 +47284,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 29,
+      "ntokens": 30,
       "nchar": 146,
       "reprint_status": "reprint",
       "potential_original": "bbf3c5ce-84c8-5441-af91-1ceeb2fbeee7/t2",
@@ -47556,7 +47556,7 @@
       "tags": ["attributes_female", "housing_sale1", "housing_sale2", "transactiontype_offer1", "transactiontype_sale1", "legumes", "ut_consumables_food"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 54,
+      "ntokens": 55,
       "nchar": 310,
       "reprint_status": "reprint",
       "potential_original": "4d7bf542-f82e-5273-a9a5-d69e3250938e/t6",
@@ -48015,7 +48015,7 @@
       "tags": ["housing_sale1", "housing_sale2", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 41,
+      "ntokens": 42,
       "nchar": 186,
       "reprint_status": "orig_r",
       "potential_original": "4d7bf542-f82e-5273-a9a5-d69e3250938e/t15",
@@ -48372,7 +48372,7 @@
       "tags": ["birds", "ut_animals"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 143,
+      "ntokens": 145,
       "nchar": 833,
       "reprint_status": "reprint",
       "potential_original": "16d5e238-4439-5d6f-bd34-b390dd766db2/t20",
@@ -48457,7 +48457,7 @@
       "tags": "employment1",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 21,
+      "ntokens": 22,
       "nchar": 116,
       "reprint_status": "orig_u",
       "potential_original": "b3af4b6c-39a9-5488-b9a0-7ff80ced6474/t47",
@@ -48797,7 +48797,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 28,
+      "ntokens": 29,
       "nchar": 144,
       "reprint_status": "orig_r",
       "potential_original": "16db3ece-5f8d-5844-ae67-6b8cd60c34ca/t37",
@@ -49057,8 +49057,8 @@
       "reprint_status": "orig_u",
       "potential_original": "70324d56-383f-53d6-ba5c-3b36b08908e6/t6",
       "p_o_distance": 1.6715,
-      "potential_reprint": "3b1d53e2-d6e0-5dab-87a1-9b180b8ec850/t5",
-      "p_r_distance": 1.5743
+      "potential_reprint": "3b1d53e2-d6e0-5dab-87a1-9b180b8ec850/t3",
+      "p_r_distance": 1.5713
     }
   ],
   "bbf3c5ce-84c8-5441-af91-1ceeb2fbeee7/t6": [
@@ -49324,7 +49324,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "hand", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 29,
+      "ntokens": 30,
       "nchar": 138,
       "reprint_status": "orig_r",
       "potential_original": "d2ebb005-4c31-584c-90d9-05832bb83c5f/t16",
@@ -49494,7 +49494,7 @@
       "tags": ["attributes_female", "housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 29,
+      "ntokens": 30,
       "nchar": 175,
       "reprint_status": "orig_u",
       "potential_original": "1eb032ac-c892-5afa-8b61-d07271937e64/t5",
@@ -50157,13 +50157,13 @@
       "tags": ["attributes_female", "transactiontype_offer2", "alcohol", "bag", "clothing", "hand", "headdress", "neck", "tableware", "texmaterial", "underwear", "weapon", "ut_consumables_drink", "ut_household", "ut_clothing", "ut_textiles", "ut_things_accessories"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 242,
+      "ntokens": 243,
       "nchar": 1383,
       "reprint_status": "reprint",
       "potential_original": "543c16d8-b3bb-573b-bc7e-4d0d2a81d848/t5",
       "p_o_distance": 0.3239,
       "potential_reprint": "385c6339-378e-5de0-a535-e7616582b766/t19",
-      "p_r_distance": 101.6038
+      "p_r_distance": 101.6059
     }
   ],
   "c5ce4eac-dd07-5db1-8f67-390131499760/t15": [
@@ -50480,7 +50480,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 26,
+      "ntokens": 27,
       "nchar": 124,
       "reprint_status": "orig_r",
       "potential_original": "99798c1f-30cc-57f8-bf06-4366ca7401ea/t37",
@@ -50718,7 +50718,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "cloth", "texmaterial", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 36,
+      "ntokens": 37,
       "nchar": 204,
       "reprint_status": "orig_r",
       "potential_original": "262265c7-d084-58b3-9b27-5661b7bd4b01/t32",
@@ -50922,7 +50922,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "transactiontype_offer2"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 42,
+      "ntokens": 43,
       "nchar": 209,
       "reprint_status": "orig_r",
       "potential_original": "99798c1f-30cc-57f8-bf06-4366ca7401ea/t0",
@@ -51466,7 +51466,7 @@
       "tags": ["print2", "transactiontype_offer2", "fish", "ut_consumables_food"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 123,
+      "ntokens": 124,
       "nchar": 625,
       "reprint_status": "reprint",
       "potential_original": "95910726-636b-56c4-9b3b-126b0080185e/t30",
@@ -51483,7 +51483,7 @@
       "tags": ["attributes_female", "lottery", "oil", "ut_consumables_food"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 106,
+      "ntokens": 107,
       "nchar": 518,
       "reprint_status": "reprint",
       "potential_original": "95910726-636b-56c4-9b3b-126b0080185e/t31",
@@ -51721,7 +51721,7 @@
       "tags": ["housing_sale1", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 69,
+      "ntokens": 70,
       "nchar": 395,
       "reprint_status": "orig_r",
       "potential_original": "8f7183f4-204c-5e5c-9496-b7581ed29b27/t3",
@@ -51772,7 +51772,7 @@
       "tags": ["print3", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 69,
+      "ntokens": 70,
       "nchar": 326,
       "reprint_status": "reprint",
       "potential_original": "8f7183f4-204c-5e5c-9496-b7581ed29b27/t2",
@@ -52418,7 +52418,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "hay", "oil", "ut_consumables_food", "ut_things_materials"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 101,
+      "ntokens": 102,
       "nchar": 513,
       "reprint_status": "orig_r",
       "potential_original": "1ca38ca6-76a9-593b-8ed1-1a1d03b5ed05/t27",
@@ -52962,7 +52962,7 @@
       "tags": ["attributes_female", "employment1", "transactiontype_offer2"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 88,
+      "ntokens": 89,
       "nchar": 546,
       "reprint_status": "orig_r",
       "potential_original": "17cc103d-3a56-5aa4-9312-65966c535381/t10",
@@ -54033,7 +54033,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 23,
+      "ntokens": 24,
       "nchar": 109,
       "reprint_status": "orig_r",
       "potential_original": "df314e06-99ec-599c-bd18-09324abd67e5/t4",
@@ -55274,7 +55274,7 @@
       "tags": ["housing_sale1", "housing_sale2", "transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 40,
+      "ntokens": 41,
       "nchar": 186,
       "reprint_status": "reprint",
       "potential_original": "b77111b6-de04-57da-a2a7-49ee52837696/t6",
@@ -55869,7 +55869,7 @@
       "tags": ["housing_sale1", "transactiontype_offer1", "transactiontype_sale1", "cloth", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 72,
+      "ntokens": 73,
       "nchar": 343,
       "reprint_status": "orig_r",
       "potential_original": "f4b5da59-2d77-5d63-8143-210addcc484e/t12",
@@ -56549,7 +56549,7 @@
       "tags": "bizpromo2",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 144,
+      "ntokens": 145,
       "nchar": 867,
       "reprint_status": "orig_r",
       "potential_original": "a19e05f3-d41b-546d-afb3-93a1614fdba1/t13",
@@ -56606,7 +56606,7 @@
       "potential_original": "a19e05f3-d41b-546d-afb3-93a1614fdba1/t19",
       "p_o_distance": 0.6606,
       "potential_reprint": "543c16d8-b3bb-573b-bc7e-4d0d2a81d848/t5",
-      "p_r_distance": 1.8908
+      "p_r_distance": 1.8931
     }
   ],
   "d71220cd-1d11-5ed7-9fa0-ee7299f867e5/t9": [
@@ -56719,7 +56719,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 24,
+      "ntokens": 25,
       "nchar": 132,
       "reprint_status": "reprint",
       "potential_original": "51ba23ca-ac26-5ef1-934c-31d225a7fb61/t7",
@@ -56838,7 +56838,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "stove", "ut_household"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 22,
+      "ntokens": 23,
       "nchar": 107,
       "reprint_status": "orig_u",
       "potential_original": "95910726-636b-56c4-9b3b-126b0080185e/t32",
@@ -57025,7 +57025,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "livestock", "texmaterial", "yarn", "ut_textiles", "ut_animals"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 40,
+      "ntokens": 41,
       "nchar": 227,
       "reprint_status": "orig_r",
       "potential_original": "95910726-636b-56c4-9b3b-126b0080185e/t37",
@@ -57926,7 +57926,7 @@
       "tags": "employment1",
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 82,
+      "ntokens": 83,
       "nchar": 472,
       "reprint_status": "orig_u",
       "potential_original": "5142af75-c918-50b8-848b-f8d78d91edbf/t31",
@@ -58521,13 +58521,13 @@
       "tags": ["housing_sale1", "housing_sale2", "transactiontype_offer1", "transactiontype_sale1", "trolley", "ut_things_storeNmove"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 36,
+      "ntokens": 38,
       "nchar": 168,
       "reprint_status": "orig_r",
       "potential_original": "ffa720a3-ab72-53eb-bdb1-cc4335badd77/t35",
-      "p_o_distance": 1.5762,
+      "p_o_distance": 1.5874,
       "potential_reprint": "42f17a44-d1af-5dd5-8bd9-d5ebe02f1819/t8",
-      "p_r_distance": 0.743
+      "p_r_distance": 0.6867
     }
   ],
   "e296129c-2aac-5e2c-a63e-dc43e9354bf2/t10": [
@@ -59116,7 +59116,7 @@
       "tags": ["transactiontype_offer2", "bag", "clothing", "neck", "outerwear", "shopequip", "texmaterial", "underwear", "ut_clothing", "ut_textiles", "ut_things_accessories", "ut_things_devicesNcomponents"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 44,
+      "ntokens": 45,
       "nchar": 254,
       "reprint_status": "reprint",
       "potential_original": "3a05fcb0-e510-5978-be78-3fc71e588147/t11",
@@ -59558,7 +59558,7 @@
       "tags": ["transactiontype_offer2", "art", "bag", "bed", "fruit", "health", "storage", "underwear", "ut_consumables_food", "ut_consumables_drugs", "ut_household", "ut_clothing", "ut_textiles", "ut_things_accessories", "ut_things_storeNmove", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 304,
+      "ntokens": 309,
       "nchar": 1522,
       "reprint_status": "orig_r",
       "potential_original": "3a05fcb0-e510-5978-be78-3fc71e588147/t7",
@@ -59643,7 +59643,7 @@
       "tags": ["alcohol", "ut_consumables_drink"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 61,
+      "ntokens": 62,
       "nchar": 287,
       "reprint_status": "orig_r",
       "potential_original": "2176ac50-e98d-5fbd-bbfa-5b87ac3c77d9/t11",
@@ -59745,7 +59745,7 @@
       "tags": ["lottery", "transactiontype_offer2"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 96,
+      "ntokens": 97,
       "nchar": 510,
       "reprint_status": "reprint",
       "potential_original": "2176ac50-e98d-5fbd-bbfa-5b87ac3c77d9/t11",
@@ -59813,7 +59813,7 @@
       "tags": ["transactiontype_offer2", "bed", "clothing", "ut_household", "ut_clothing", "ut_textiles", "table", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 90,
+      "ntokens": 91,
       "nchar": 451,
       "reprint_status": "orig_r",
       "potential_original": "2176ac50-e98d-5fbd-bbfa-5b87ac3c77d9/t11",
@@ -59833,8 +59833,8 @@
       "ntokens": 60,
       "nchar": 356,
       "reprint_status": "orig_u",
-      "potential_original": "2176ac50-e98d-5fbd-bbfa-5b87ac3c77d9/t10",
-      "p_o_distance": 1.5801,
+      "potential_original": "2176ac50-e98d-5fbd-bbfa-5b87ac3c77d9/t11",
+      "p_o_distance": 1.5752,
       "potential_reprint": "06c4f4e4-663e-56ae-9090-62c85de0fb75/t33",
       "p_r_distance": 1.4909
     }
@@ -60442,7 +60442,7 @@
       "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 30,
+      "ntokens": 31,
       "nchar": 150,
       "reprint_status": "orig_r",
       "potential_original": "9fd9c888-0d19-5bee-be05-0a7c9384d029/t7",
@@ -60731,7 +60731,7 @@
       "tags": ["housing_sale1", "housing_sale2", "transactiontype_offer1", "transactiontype_sale1", "stove", "ut_household", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 64,
+      "ntokens": 65,
       "nchar": 365,
       "reprint_status": "reprint",
       "potential_original": "69d6ac66-af5f-5956-b1e7-9b0925825d65/t2",
@@ -61377,7 +61377,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "bedding", "clothing", "ut_household", "ut_clothing", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 30,
+      "ntokens": 31,
       "nchar": 149,
       "reprint_status": "reprint",
       "potential_original": "36796bff-0269-5ca9-87d0-50b99665fcde/t3",
@@ -61615,7 +61615,7 @@
       "tags": ["housing_sale2", "transactiontype_offer1", "transactiontype_sale1", "livestock", "trolley", "ut_things_storeNmove", "ut_animals"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 44,
+      "ntokens": 45,
       "nchar": 215,
       "reprint_status": "orig_r",
       "potential_original": "af5a856e-2247-5013-8bcd-503060f2ef3f/t18",
@@ -62108,7 +62108,7 @@
       "tags": ["transactiontype_offer1", "transactiontype_sale1", "health", "ut_consumables_drugs"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 45,
+      "ntokens": 47,
       "nchar": 246,
       "reprint_status": "reprint",
       "potential_original": "ae5e6c2b-a62f-542f-8e2a-22530942798b/t11",
@@ -63247,7 +63247,7 @@
       "tags": ["attributes_female", "employment1", "transactiontype_offer2"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 88,
+      "ntokens": 89,
       "nchar": 545,
       "reprint_status": "reprint",
       "potential_original": "ce0c4cc4-0767-56d3-8ad4-0217b34c8ad0/t38",
@@ -63944,7 +63944,7 @@
       "tags": ["lostandfound1", "transactiontype_offer1", "bag", "outerwear", "tobaccoobjects", "ut_clothing", "ut_textiles", "ut_things_accessories"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 55,
+      "ntokens": 56,
       "nchar": 338,
       "reprint_status": "orig_u",
       "potential_original": "4f02fa6f-4b18-5af8-aaea-af13278d6ba7/t24",
@@ -64029,7 +64029,7 @@
       "tags": ["housing_sale1", "transactiontype_offer1", "transactiontype_sale1", "cloth", "ut_textiles"],
       "tags_manual": "NA",
       "language": "de",
-      "ntokens": 72,
+      "ntokens": 73,
       "nchar": 343,
       "reprint_status": "reprint",
       "potential_original": "d520cddf-b7dd-5f77-ae42-e61b8263535d/t1",

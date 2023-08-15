@@ -13288,7 +13288,7 @@
       "nchar": 120,
       "reprint_status": "orig_u",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t18",
-      "p_o_distance": 1.6068,
+      "p_o_distance": 1.6153,
       "potential_reprint": "c7e15a3e-756c-522a-97dc-eaf0d2c3ad16/t11",
       "p_r_distance": 1.0164
     }
@@ -13305,7 +13305,7 @@
       "nchar": 65,
       "reprint_status": "orig_r",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t10",
-      "p_o_distance": 1.4588,
+      "p_o_distance": 1.4971,
       "potential_reprint": "c7e15a3e-756c-522a-97dc-eaf0d2c3ad16/t12",
       "p_r_distance": 0
     }
@@ -13315,14 +13315,14 @@
       "isheader": false,
       "date": "1742-01-03",
       "tags_section": "saleoffer",
-      "tags": ["transactiontype_offer1", "transactiontype_sale1", "tool", "underwear", "ut_clothing", "ut_textiles", "ut_things_devicesNcomponents"],
+      "tags": ["transactiontype_offer1", "transactiontype_sale1", "tool", "underwear", "ut_clothing", "ut_textiles", "ut_things_devicesNcomponents", "clothing", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 63,
       "nchar": 359,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t13",
-      "p_o_distance": 0.4446,
+      "p_o_distance": 0.9052,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t20",
       "p_r_distance": 1.4066
     }
@@ -13332,14 +13332,14 @@
       "isheader": false,
       "date": "1742-01-03",
       "tags_section": "saleoffer",
-      "tags": ["housing_sale1", "transactiontype_offer1", "transactiontype_sale1", "livestock", "ut_animals"],
+      "tags": ["housing_sale1", "transactiontype_offer1", "transactiontype_sale1", "livestock", "ut_animals", "housing_sale2", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 41,
       "nchar": 224,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t22",
-      "p_o_distance": 0.4721,
+      "p_o_distance": 0.8524,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t4",
       "p_r_distance": 1.5278
     }
@@ -13356,7 +13356,7 @@
       "nchar": 278,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t23",
-      "p_o_distance": 0.2638,
+      "p_o_distance": 0.5557,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t20",
       "p_r_distance": 1.368
     }
@@ -13390,7 +13390,7 @@
       "nchar": 265,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t25",
-      "p_o_distance": 0.281,
+      "p_o_distance": 0.7522,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t4",
       "p_r_distance": 1.3441
     }
@@ -13407,7 +13407,7 @@
       "nchar": 161,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t26",
-      "p_o_distance": 0.3809,
+      "p_o_distance": 0.8314,
       "potential_reprint": "c7e15a3e-756c-522a-97dc-eaf0d2c3ad16/t2",
       "p_r_distance": 1.5235
     }
@@ -13424,7 +13424,7 @@
       "nchar": 143,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t27",
-      "p_o_distance": 0.4865,
+      "p_o_distance": 0.7853,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t16",
       "p_r_distance": 1.6617
     }
@@ -13439,9 +13439,9 @@
       "language": "de",
       "ntokens": 25,
       "nchar": 144,
-      "reprint_status": "reprint",
+      "reprint_status": "orig_u",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t28",
-      "p_o_distance": 0.5134,
+      "p_o_distance": 1.0127,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t9",
       "p_r_distance": 1.405
     }
@@ -13458,7 +13458,7 @@
       "nchar": 305,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t29",
-      "p_o_distance": 0.4433,
+      "p_o_distance": 0.8538,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t11",
       "p_r_distance": 0.6918
     }
@@ -13474,8 +13474,8 @@
       "ntokens": 101,
       "nchar": 559,
       "reprint_status": "orig_u",
-      "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t10",
-      "p_o_distance": 1.4656,
+      "potential_original": "090aad8c-96ee-5f03-94e2-3150e7b936aa/t2",
+      "p_o_distance": 1.4394,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t6",
       "p_r_distance": 1.425
     }
@@ -13492,7 +13492,7 @@
       "nchar": 301,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t1",
-      "p_o_distance": 0.2638,
+      "p_o_distance": 0.5899,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t0",
       "p_r_distance": 1.472
     }
@@ -13526,7 +13526,7 @@
       "nchar": 64,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t3",
-      "p_o_distance": 0.6433,
+      "p_o_distance": 0.7697,
       "potential_reprint": "c7e15a3e-756c-522a-97dc-eaf0d2c3ad16/t5",
       "p_r_distance": 1.5542
     }
@@ -13541,9 +13541,9 @@
       "language": "de",
       "ntokens": 10,
       "nchar": 55,
-      "reprint_status": "reprint",
+      "reprint_status": "orig_u",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t4",
-      "p_o_distance": 0,
+      "p_o_distance": 1.0186,
       "potential_reprint": "c7e15a3e-756c-522a-97dc-eaf0d2c3ad16/t12",
       "p_r_distance": 1.4971
     }
@@ -13558,9 +13558,9 @@
       "language": "de",
       "ntokens": 37,
       "nchar": 237,
-      "reprint_status": "reprint",
+      "reprint_status": "orig_u",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t5",
-      "p_o_distance": 0.6695,
+      "p_o_distance": 1.0964,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t9",
       "p_r_distance": 1.5365
     }
@@ -13577,7 +13577,7 @@
       "nchar": 553,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t8",
-      "p_o_distance": 0.4251,
+      "p_o_distance": 0.6197,
       "potential_reprint": "3052cadf-f281-5d0a-9335-6d5e0f6deeef/t9",
       "p_r_distance": 1.5128
     }
@@ -17827,7 +17827,7 @@
       "nchar": 636,
       "reprint_status": "reprint",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t21",
-      "p_o_distance": 0.7444,
+      "p_o_distance": 0.8956,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t9",
       "p_r_distance": 1.4682
     }
@@ -17844,7 +17844,7 @@
       "nchar": 857,
       "reprint_status": "reprint",
       "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t10",
-      "p_o_distance": 0.4811,
+      "p_o_distance": 0.7373,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t9",
       "p_r_distance": 1.3662
     }
@@ -17861,7 +17861,7 @@
       "nchar": 382,
       "reprint_status": "reprint",
       "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t11",
-      "p_o_distance": 0.3294,
+      "p_o_distance": 0.6988,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t20",
       "p_r_distance": 1.4511
     }
@@ -17912,7 +17912,7 @@
       "nchar": 212,
       "reprint_status": "orig_r",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t12",
-      "p_o_distance": 1.6238,
+      "p_o_distance": 1.6228,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t3",
       "p_r_distance": 0
     }
@@ -17928,8 +17928,8 @@
       "ntokens": 33,
       "nchar": 157,
       "reprint_status": "orig_r",
-      "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t11",
-      "p_o_distance": 1.4695,
+      "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t5",
+      "p_o_distance": 1.5315,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t4",
       "p_r_distance": 0.4498
     }
@@ -17946,7 +17946,7 @@
       "nchar": 269,
       "reprint_status": "orig_r",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t15",
-      "p_o_distance": 1.4139,
+      "p_o_distance": 1.4249,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t5",
       "p_r_distance": 0.2679
     }
@@ -17962,8 +17962,8 @@
       "ntokens": 86,
       "nchar": 498,
       "reprint_status": "orig_r",
-      "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t23",
-      "p_o_distance": 1.4508,
+      "potential_original": "090aad8c-96ee-5f03-94e2-3150e7b936aa/t2",
+      "p_o_distance": 1.3673,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t6",
       "p_r_distance": 0.4186
     }
@@ -17980,7 +17980,7 @@
       "nchar": 392,
       "reprint_status": "reprint",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t25",
-      "p_o_distance": 0,
+      "p_o_distance": 0.3331,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t6",
       "p_r_distance": 1.5262
     }
@@ -17997,7 +17997,7 @@
       "nchar": 213,
       "reprint_status": "reprint",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t26",
-      "p_o_distance": 0.6024,
+      "p_o_distance": 0.8073,
       "potential_reprint": "38a0a978-03c3-55a3-a3d7-5193431fc50c/t2",
       "p_r_distance": 1.6532
     }
@@ -33518,7 +33518,7 @@
       "nchar": 1632,
       "reprint_status": "reprint",
       "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t12",
-      "p_o_distance": 0.3632,
+      "p_o_distance": 0.6506,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t6",
       "p_r_distance": 101.6631
     }
@@ -33535,7 +33535,7 @@
       "nchar": 345,
       "reprint_status": "reprint",
       "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t15",
-      "p_o_distance": 0.4792,
+      "p_o_distance": 0.8124,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t6",
       "p_r_distance": 1.5158
     }
@@ -33552,7 +33552,7 @@
       "nchar": 504,
       "reprint_status": "reprint",
       "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t16",
-      "p_o_distance": 0.3576,
+      "p_o_distance": 0.4731,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t6",
       "p_r_distance": 1.5093
     }
@@ -33569,7 +33569,7 @@
       "nchar": 829,
       "reprint_status": "reprint",
       "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t18",
-      "p_o_distance": 0.3726,
+      "p_o_distance": 0.5877,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t9",
       "p_r_distance": 0.2635
     }
@@ -33586,7 +33586,7 @@
       "nchar": 139,
       "reprint_status": "reprint",
       "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t19",
-      "p_o_distance": 0.7626,
+      "p_o_distance": 0.9829,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t4",
       "p_r_distance": 1.5317
     }
@@ -33601,9 +33601,9 @@
       "language": "de",
       "ntokens": 121,
       "nchar": 541,
-      "reprint_status": "reprint",
+      "reprint_status": "orig_u",
       "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t20",
-      "p_o_distance": 0.5297,
+      "p_o_distance": 1.0198,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t6",
       "p_r_distance": 1.5565
     }
@@ -33620,7 +33620,7 @@
       "nchar": 105,
       "reprint_status": "orig_u",
       "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t23",
-      "p_o_distance": 1.6946,
+      "p_o_distance": 1.6927,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t18",
       "p_r_distance": 1.6899
     }
@@ -36085,7 +36085,7 @@
       "nchar": 571,
       "reprint_status": "orig_u",
       "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t18",
-      "p_o_distance": 1.5165,
+      "p_o_distance": 1.5252,
       "potential_reprint": "38a0a978-03c3-55a3-a3d7-5193431fc50c/t14",
       "p_r_distance": 1.5015
     }
@@ -72968,14 +72968,14 @@
       "isheader": false,
       "date": "1742-01-03",
       "tags_section": "lendoffer",
-      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
+      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 35,
       "nchar": 202,
       "reprint_status": "reprint",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t12",
-      "p_o_distance": 0,
+      "p_o_distance": 0.6709,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t20",
       "p_r_distance": 1.5446
     }
@@ -72992,7 +72992,7 @@
       "nchar": 271,
       "reprint_status": "orig_r",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t35",
-      "p_o_distance": 1.278,
+      "p_o_distance": 1.3492,
       "potential_reprint": "3052cadf-f281-5d0a-9335-6d5e0f6deeef/t1",
       "p_r_distance": 0
     }
@@ -73009,7 +73009,7 @@
       "nchar": 227,
       "reprint_status": "reprint",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t14",
-      "p_o_distance": 0.3067,
+      "p_o_distance": 0.8901,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t20",
       "p_r_distance": 1.6237
     }
@@ -73026,7 +73026,7 @@
       "nchar": 287,
       "reprint_status": "reprint",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t15",
-      "p_o_distance": 0.766,
+      "p_o_distance": 0.9725,
       "potential_reprint": "3052cadf-f281-5d0a-9335-6d5e0f6deeef/t6",
       "p_r_distance": 1.3709
     }
@@ -73059,8 +73059,8 @@
       "ntokens": 56,
       "nchar": 330,
       "reprint_status": "orig_r",
-      "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t21",
-      "p_o_distance": 1.5188,
+      "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t15",
+      "p_o_distance": 1.5311,
       "potential_reprint": "38a0a978-03c3-55a3-a3d7-5193431fc50c/t5",
       "p_r_distance": 0.3473
     }
@@ -73094,7 +73094,7 @@
       "nchar": 876,
       "reprint_status": "reprint",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t19",
-      "p_o_distance": 0.4778,
+      "p_o_distance": 0.7788,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t9",
       "p_r_distance": 1.4747
     }
@@ -73111,7 +73111,7 @@
       "nchar": 162,
       "reprint_status": "orig_u",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t11",
-      "p_o_distance": 1.4183,
+      "p_o_distance": 1.4777,
       "potential_reprint": "92bca60d-86dc-5872-b2e6-8a622aaf6fb2/t8",
       "p_r_distance": 1.5733
     }
@@ -73127,8 +73127,8 @@
       "ntokens": 41,
       "nchar": 214,
       "reprint_status": "orig_r",
-      "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t2",
-      "p_o_distance": 1.5634,
+      "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t9",
+      "p_o_distance": 1.6575,
       "potential_reprint": "3052cadf-f281-5d0a-9335-6d5e0f6deeef/t3",
       "p_r_distance": 0.7026
     }
@@ -73162,7 +73162,7 @@
       "nchar": 337,
       "reprint_status": "orig_r",
       "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t11",
-      "p_o_distance": 1.5114,
+      "p_o_distance": 1.5127,
       "potential_reprint": "3052cadf-f281-5d0a-9335-6d5e0f6deeef/t8",
       "p_r_distance": 0.2423
     }
@@ -73179,7 +73179,7 @@
       "nchar": 588,
       "reprint_status": "orig_r",
       "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t18",
-      "p_o_distance": 1.4003,
+      "p_o_distance": 1.4065,
       "potential_reprint": "3052cadf-f281-5d0a-9335-6d5e0f6deeef/t9",
       "p_r_distance": 0.1657
     }
@@ -73212,8 +73212,8 @@
       "ntokens": 34,
       "nchar": 196,
       "reprint_status": "orig_u",
-      "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t16",
-      "p_o_distance": 1.6575,
+      "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t28",
+      "p_o_distance": 1.6603,
       "potential_reprint": "3052cadf-f281-5d0a-9335-6d5e0f6deeef/t7",
       "p_r_distance": 1.5889
     }
@@ -73230,7 +73230,7 @@
       "nchar": 181,
       "reprint_status": "orig_u",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t9",
-      "p_o_distance": 1.5633,
+      "p_o_distance": 1.5667,
       "potential_reprint": "3052cadf-f281-5d0a-9335-6d5e0f6deeef/t7",
       "p_r_distance": 1.3049
     }
@@ -78432,7 +78432,7 @@
       "nchar": 165,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t30",
-      "p_o_distance": 0.6016,
+      "p_o_distance": 0.776,
       "potential_reprint": "c7e15a3e-756c-522a-97dc-eaf0d2c3ad16/t6",
       "p_r_distance": 1.5008
     }
@@ -78449,7 +78449,7 @@
       "nchar": 98,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t31",
-      "p_o_distance": 0,
+      "p_o_distance": 0.9733,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t8",
       "p_r_distance": 1.5972
     }
@@ -78466,7 +78466,7 @@
       "nchar": 36,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t33",
-      "p_o_distance": 0,
+      "p_o_distance": 0.9226,
       "potential_reprint": "c7e15a3e-756c-522a-97dc-eaf0d2c3ad16/t5",
       "p_r_distance": 1.3225
     }
@@ -78483,7 +78483,7 @@
       "nchar": 74,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t34",
-      "p_o_distance": 0,
+      "p_o_distance": 0.6628,
       "potential_reprint": "c7e15a3e-756c-522a-97dc-eaf0d2c3ad16/t3",
       "p_r_distance": 1.3061
     }
@@ -78534,7 +78534,7 @@
       "nchar": 479,
       "reprint_status": "reprint",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t2",
-      "p_o_distance": 0.7597,
+      "p_o_distance": 0.9238,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t21",
       "p_r_distance": 0.6069
     }
@@ -78561,14 +78561,14 @@
       "isheader": false,
       "date": "1742-01-03",
       "tags_section": "lendoffer",
-      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
+      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 28,
       "nchar": 140,
       "reprint_status": "reprint",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t2",
-      "p_o_distance": 0.5679,
+      "p_o_distance": 0.6956,
       "potential_reprint": "c7e15a3e-756c-522a-97dc-eaf0d2c3ad16/t2",
       "p_r_distance": 1.5614
     }
@@ -78585,7 +78585,7 @@
       "nchar": 102,
       "reprint_status": "orig_u",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t4",
-      "p_o_distance": 1.0093,
+      "p_o_distance": 1.1795,
       "potential_reprint": "c7e15a3e-756c-522a-97dc-eaf0d2c3ad16/t9",
       "p_r_distance": 1.5287
     }
@@ -78595,14 +78595,14 @@
       "isheader": false,
       "date": "1742-01-03",
       "tags_section": "lendoffer",
-      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
+      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 34,
       "nchar": 202,
       "reprint_status": "reprint",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t8",
-      "p_o_distance": 0,
+      "p_o_distance": 0.5089,
       "potential_reprint": "38a0a978-03c3-55a3-a3d7-5193431fc50c/t2",
       "p_r_distance": 1.5215
     }
@@ -78612,14 +78612,14 @@
       "isheader": false,
       "date": "1742-01-03",
       "tags_section": "lendoffer",
-      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
+      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 37,
       "nchar": 199,
       "reprint_status": "reprint",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t9",
-      "p_o_distance": 0.4991,
+      "p_o_distance": 0.6995,
       "potential_reprint": "3052cadf-f281-5d0a-9335-6d5e0f6deeef/t1",
       "p_r_distance": 1.3935
     }
@@ -78636,7 +78636,7 @@
       "nchar": 406,
       "reprint_status": "orig_r",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t23",
-      "p_o_distance": 1.4282,
+      "p_o_distance": 1.4261,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t0",
       "p_r_distance": 0.5608
     }
@@ -78646,14 +78646,14 @@
       "isheader": false,
       "date": "1742-01-03",
       "tags_section": "lendoffer",
-      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1"],
+      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 44,
       "nchar": 243,
       "reprint_status": "reprint",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t10",
-      "p_o_distance": 0.3532,
+      "p_o_distance": 0.6397,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t20",
       "p_r_distance": 1.4662
     }
@@ -78663,14 +78663,14 @@
       "isheader": false,
       "date": "1742-01-03",
       "tags_section": "lendoffer",
-      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "transactiontype_offer2"],
+      "tags": ["housing_rent1", "transactiontype_lend1", "transactiontype_offer1", "transactiontype_offer2", "fraternal_twin"],
       "tags_manual": "NA",
       "language": "de",
       "ntokens": 38,
       "nchar": 237,
       "reprint_status": "reprint",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t11",
-      "p_o_distance": 0.3657,
+      "p_o_distance": 0.8441,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t20",
       "p_r_distance": 1.4059
     }
@@ -78686,8 +78686,8 @@
       "ntokens": 43,
       "nchar": 168,
       "reprint_status": "orig_r",
-      "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t18",
-      "p_o_distance": 1.5739,
+      "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t28",
+      "p_o_distance": 1.6162,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t1",
       "p_r_distance": 0.8222
     }
@@ -78704,7 +78704,7 @@
       "nchar": 80,
       "reprint_status": "reprint",
       "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t23",
-      "p_o_distance": 0.63,
+      "p_o_distance": 0.8756,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t2",
       "p_r_distance": 0.5201
     }
@@ -78721,7 +78721,7 @@
       "nchar": 91,
       "reprint_status": "orig_u",
       "potential_original": "39dff096-1efa-591f-816e-ac99815570ad/t34",
-      "p_o_distance": 1.637,
+      "p_o_distance": 1.6505,
       "potential_reprint": "3052cadf-f281-5d0a-9335-6d5e0f6deeef/t2",
       "p_r_distance": 1.678
     }
@@ -78738,7 +78738,7 @@
       "nchar": 251,
       "reprint_status": "reprint",
       "potential_original": "c8ef15ad-a52d-5396-b8e2-30c10e3557b0/t25",
-      "p_o_distance": 0.7246,
+      "p_o_distance": 0.9659,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t20",
       "p_r_distance": 1.5474
     }
@@ -78789,7 +78789,7 @@
       "nchar": 139,
       "reprint_status": "orig_r",
       "potential_original": "d8fa28b5-3edf-5008-bc3a-3b82338bd1f6/t0",
-      "p_o_distance": 1.6068,
+      "p_o_distance": 1.6092,
       "potential_reprint": "4d5215aa-5a46-57a8-9426-a17e71730666/t16",
       "p_r_distance": 0.7303
     }

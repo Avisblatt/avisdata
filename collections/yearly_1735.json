@@ -9463,7 +9463,7 @@
       "nchar": 850,
       "reprint_status": "orig_u",
       "potential_original": "de54557f-07ad-5eb3-9ac5-ad75c323edc4/t19",
-      "p_o_distance": 1.6975,
+      "p_o_distance": 1.692,
       "potential_reprint": "d8431dfa-f8c5-5a10-b084-d061bd4c594e/t5",
       "p_r_distance": 2.3751
     }
@@ -33671,7 +33671,7 @@
       "nchar": 357,
       "reprint_status": "orig_u",
       "potential_original": "de54557f-07ad-5eb3-9ac5-ad75c323edc4/t8",
-      "p_o_distance": 1.434,
+      "p_o_distance": 1.4374,
       "potential_reprint": "d8431dfa-f8c5-5a10-b084-d061bd4c594e/t32",
       "p_r_distance": 1.6412
     }
@@ -33857,8 +33857,8 @@
       "ntokens": 114,
       "nchar": 705,
       "reprint_status": "orig_u",
-      "potential_original": "e7c2c8c6-4959-5916-b313-80719db1b2f5/t37",
-      "p_o_distance": 101.5533,
+      "potential_original": "e7c2c8c6-4959-5916-b313-80719db1b2f5/t35",
+      "p_o_distance": 101.5505,
       "potential_reprint": "f632c7f6-62cc-5612-b50b-4f0a24a00901/t1",
       "p_r_distance": 1.4966
     }
@@ -34062,7 +34062,7 @@
       "nchar": 272,
       "reprint_status": "orig_u",
       "potential_original": "e7c2c8c6-4959-5916-b313-80719db1b2f5/t35",
-      "p_o_distance": 1.4662,
+      "p_o_distance": 1.4676,
       "potential_reprint": "d8431dfa-f8c5-5a10-b084-d061bd4c594e/t2",
       "p_r_distance": 1.4682
     }
