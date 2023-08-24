@@ -1,6 +1,12 @@
 # Raw and Processed Data of Printed Markets - The Basel Avisblatt (1729-1845)
 
-Machine readable data derived from the Basel Avisblatt via a Transkribus.eu backed, enhanced OCR process. Processed Data are enriched with meta description such as extensive tagging at the ad level. More information can be found here:
+Switzerland's first advertising journal – the so-called Avisblatt – was published in Basel. It is a typical example of a new market form emerging in 18th century Europe, yet it is also exceptional since all issues from 1729 to 1844/45 are preserved. In the SNF funded research project “Märkte auf Papier” at the University of Basel (PI: Prof. Dr. Susanna Burghartz), this serial source has been digitized and used to investigate economic, social and societal transformations of the early capitalist period in Basel. A database of all adverts and announcements was created, totalling 932’000 records and providing different sorts of metadata for each advert. Combined with analytical tools, it is made available here.
+
+## Machine Readable Data
+
+This data repository provides machine friendly OCR'd data und meta information at single record (ad) level. We provide `raw data` as read in from Transkribus.eu which was used in the OCR process, `collections` of data enriched with annotated meta information (mostly based on filters to create automated tags) and aggregated information `tables`. Data, and collections in particular processes to work well with the `avisblatt` R package. 
+
+More information can be found here:
 
 <!--
 - https://avisblatt.philhist.unibas.ch/
