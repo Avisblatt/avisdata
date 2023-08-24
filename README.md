@@ -17,6 +17,8 @@ More information can be found here:
 
 ## Zenodo
 
+[![DOI](https://zenodo.org/badge/599301403.svg)](https://zenodo.org/badge/latestdoi/599301403)
+
 # Folders
 
 This repository contains folders with data at various steps of processing:
